@@ -1,0 +1,1250 @@
+$navheight: 60px;
+$navheight768: 65px;
+$navheight979: 70px;
+$navheight992: 60px;
+$navheight1200: 70px;
+$navbuttonheight: 58px;
+$navbuttonheight768: 63px;
+$navbuttonheight979: 68px;
+$navbuttonheight992: 58px;
+$navbuttonheight1200: 68px;
+$navbuttonwidth: 58px;
+$navbuttonwidth768: 63px;
+$navbuttonwidth979: 90px;
+$navbuttonwidth992: 100px;
+$navbuttonwidth1200: 130px;
+$main-lighter-color: #e1f4f5;
+$main-color: #69c8cf;
+$main-darker-color: #78cdd3;
+$post-light-color: #87d3d8;
+$dark: #54a0a5;
+$even: #EFF9FA;
+$ansat-info-links: #2a5052;
+/** -------------  --------------- **/
+
+//* USER profile **/ 
+.user-profile .group-header {
+    color: $main-darker-color;
+}
+.user-profile .group-left, .user-profile .group-footer, .user-profile .group-left h3, .user-profile .group-footer h3, .user-profile .group-left dt, .user-profile .group-footer dt {
+    color: $main-lighter-color;
+    font-size: 1em;
+    font-weight: 100;
+}
+.user-profile .group-left dl, .user-profile .group-footer dl, .user-profile .group-left h3, .user-profile .group-footer h3 {
+    margin: 0px;
+    line-height: 20px;
+}
+.user-profile .group-left a, .user-profile .group-footer a {
+    color: $main-lighter-color;
+}
+.user-profile .group-header {
+    padding-top: 40px;
+}
+ul.tabs--primary.nav.nav-tabs {
+    background: white;
+    margin-bottom: 0px;
+}
+ul.tabs--secondary.pagination.pagination-sm {
+    display: inline-block;
+    background: white;
+    width: 100%;
+}
+.page-user .pagination {
+    margin-bottom: 0px;
+}
+.page-user .region-content {
+    background: white;
+    //padding: 10px;
+}
+.page-user-edit .region-content {
+    padding: 10px;
+}
+.page-header {
+    background: #54a0a5;
+    height: 70px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    border-bottom: 8px solid #87d3d8;
+    padding: 20px;
+    color: #e1f4f5;
+    line-height: 27px;
+}
+.user-profile .group-header .field-item img {
+    border-radius: 50%;
+    text-align: center;
+    display: block;
+    position: relative;
+    border: 5px solid #54a0a5;
+    margin-left: auto;
+    margin-right: auto;
+}
+.user-profile .group-left, .group-footer {
+    background: $dark;
+    padding: 10px;
+}
+.group-header .field-name-field-user-fornavn, .group-header .field-name-field-user-efternavn {
+    font-size: 2em;
+}
+.user-profile .group-header .field-item img {
+    width: 45% !important;
+    height: 45% !important;
+}
+//** LOGIN **//
+a {
+    color: $dark;
+}
+#block-user-login {
+    background: white;
+    padding-bottom: 10px;
+    display: block;
+}
+#block-user-login .form-text, #block-user-login #edit-submit {
+    border-color: $post-light-color;
+}
+#block-user-login .block-title {
+    background: $dark;
+    border-bottom: 5px solid $post-light-color;
+    padding-left: 25px;
+}
+#block-user-login h2 {
+    color: $main-lighter-color;
+    margin: 0px;
+    height: 70px;
+    line-height: 70px;
+}
+#user-login-form {
+    padding: 30px;
+}
+.page-statistik .row, .page-statistik .row pre, {
+    background: white;
+    border: none;
+}
+#edit-ugedage, #edit-maaned {
+    margin-top: 0px;
+    border-color: $post-light-color;
+}
+//** LOGIN END**//
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus {
+    background: $main-color;
+    border-color: $main-color;
+}
+.view-files .views-row-even {
+    background: rgba(105, 205, 208, 0.2);
+}
+.view-files {
+    background: white;
+}
+.kategori {
+    display: inline;
+    background-color: $main-color;
+    color: $even;
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 3px;
+}
+.calendar a {
+    color: white;
+}
+.page-calendar .date-nav-wrapper {
+    background-color: #54a0a5;
+    border-bottom: 10px solid #69c8cf !important;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    height: 50px;
+}
+.page-calendar .pager .date-prev, .page-calendar .pager .date-next {
+    color: #e1f4f5;
+    line-height: 0px;
+}
+.kategori a {
+    color: white !important;
+}
+.created {
+    display: inline;
+}
+.pane-vagtplan ul {
+    padding: 0px 0px 15px 0px;
+}
+.pane-vagtplan ul li {
+    list-style: none;
+    padding: 10px;
+}
+.pane-vagtplan h4 {
+    margin: 0;
+    margin-bottom: 5px;
+}
+.pane-vagtplan .views-row-even {
+    background: $even;
+}
+body {
+    background-color: #EAEDF2;
+}
+button.navbar-toggle {
+    right: 10px;
+}
+.navbar>.container .navbar-brand {
+    margin-left: -5px;
+    position: relative;
+    font-size: 1.25em;
+    top: 6px;
+    color: $main-lighter-color;
+}
+.logo img {
+    padding-top: 5px;
+    width: 80%;
+}
+#navbar a > is {
+    display: block;
+}
+a:before {
+    position: relative;
+    width: 100%;
+}
+.navbar-toggle {
+    position: absolute;
+    margin-top: 11px;
+}
+.nav .open>a, .nav .open>a:hover {
+    border-right: 2px solid #78cdd3;
+}
+// Dropdown menu
+.tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+    border-bottom: 3px solid #54a0a5;
+}
+.tb-megamenu .nav-collapse .dropdown-menu {
+    background-color: white !important;
+    border: 2px solid $main-color;
+    border-left: none;
+    border-right: none;
+}
+.tb-megamenu .nav-collapse {
+    position: relative;
+    z-index: 999;
+    height: auto;
+    top: 0px !important;
+}
+.tb-megamenu .nav-collapse.collapse {
+    display: block !important;
+}
+.tb-megamenu {
+    background: none !important;
+}
+.tb-megamenu .nav > .active > a {
+    background-color: $dark !important;
+}
+.tb-megamenu .nav-collapse .nav > li > a {
+    background-color: $dark;
+}
+.tb-megamenu .nav-collapse .dropdown-menu a {
+    color: $dark !important;
+}
+.tb-megamenu .nav-collapse .nav > li > a:hover, .tb-megamenu .nav-collapse .nav > li > a:focus {
+    background: $dark !important;
+    color: white !important;
+}
+.tb-megamenu .dropdown-menu .active > a {
+    color: #fff !important;
+    text-decoration: none;
+    outline: 0;
+    background-color: $dark !important;
+    background-image: none !important;
+    background-repeat: none !important;
+}
+// dropdown end
+#navbar {
+    background-color: $dark;
+    height: $navheight;
+    border-radius: 0px;
+    margin-top: 0px;
+    padding-right: 0px;
+}
+#navbar ul li {
+    color: white;
+}
+.fa {
+    display: inline !important;
+}
+.ansat-fornavn {
+    display: none;
+}
+.ansat-img {
+    float: left;
+}
+.view-afdelingen .view-content .views-row {
+    height: 140px;
+    //padding-top:10px;
+    margin: 1px;
+}
+.ansat-info {
+    padding-top: 15px;
+}
+/// -------------- Mini-Kalender --------------///
+.pane-vagtplan .date-nav {
+    background: $dark !important;
+    margin: 0px;
+    padding: 0px;
+}
+.pane-vagtplan .date-nav h3 a {
+    color: #e1f4f5 !important;
+}
+.pane-vagtplan .view-vagtplan {
+    background-color: white;
+}
+.mini {
+    background-color: white;
+    /*kaldender baggrund*/
+}
+.mini-day-off {
+    color: #346467;
+    /* kalender tekst */
+}
+.mini-day-on {
+    background-color: rgba(225, 244, 245, 1);
+}
+.mini-day-on, .mini-day-off {
+    text-align: center;
+}
+.mini a {
+    color: #346467;
+    text-decoration: none;
+}
+.calendar-calendar .month-view .mini .days {
+    background-color: white;
+    color: #54a0a5;
+    border: 0px solid #54a0a5;
+}
+.calendar h4 {
+    font-size: 1em;
+    display: inline-block;
+}
+.pane-vagtplan .view .date-heading h3 {
+    padding-top: 10px;
+}
+////** ------ Kalender Buttons -------------////
+.pager {
+    margin-bottom: 0px;
+}
+.view .date-nav-wrapper .date-prev {} .pane-vagtplan .pager .date-prev a {} .pane-vagtplan .pager .date-prev a, .pane-vagtplan .pager .date-next a {
+    font-size: 1.8em;
+    color: $main-lighter-color;
+}
+.pane-vagtplan .pager .date-next a {} .view-files .views-exposed-form {
+    background-color: $post-light-color;
+}
+.view-files .views-exposed-widgets {
+    margin-bottom: 0px;
+}
+.view-files .views-exposed-widget {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding-top: 0px;
+}
+.view-files .views-exposed-widget .form-type-radio {
+    margin-top: 0px;
+}
+.views-exposed-widget label, .view-files .views-exposed-widget .views-widget label {
+    color: $main-lighter-color !important;
+}
+.view-files .author {
+    display: inline-block;
+}
+////** ------- Kalender Buttons END ---------////
+/// ------------ Kalender END ---------------///
+// forside 
+.pane-allnews img {
+    display: inline-block;
+    float: left;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+.pane-vagtplan .pane-title {
+    height: 20px !important;
+}
+.pane-allnews .views-row {
+    //height: 205px;
+    padding: 10px;
+    display: inline-block;
+    width: 100%;
+    background: white;
+}
+.view-allnews .views-row-even {
+    background: rgba(105, 205, 208, 0.1);
+}
+.view-allnews .views-row h3 {
+    margin: 5px;
+}
+.view-allnews .overinfo {
+    padding: 5px 0px 5px 0px;
+}
+// Forside Ende
+// Views!!! 
+.view-drifts-information .views-image, .view-afdelings-information .views-image, .view-general-information .views-image {
+    float: left;
+}
+// Views End
+//** OPRET NYHED/FILUPDATE!!! 
+#nyhed-node-form, #file-update-node-form, #submenu-node-form, #event-node-form {
+    background: white;
+    padding: 10px;
+}
+.calendar-calendar td {
+    border: none;
+}
+/* Small devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {
+    .user-profile .group-header .field-item img {
+        width: 25% !important;
+        height: 25% !important;
+    }
+    .logo {
+        display: block;
+    }
+    .nav .open>a, .nav .open>a:hover {
+        border-right: 2px solid #78cdd3;
+    }
+    .tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+        border-bottom: 3px solid #54a0a5;
+    }
+    #navbar {
+        background-color: $main-color;
+        height: $navheight768;
+        border-radius: 0px;
+    }
+    .tb-megamenu .nav-collapse.collapse {
+        display: block !important;
+    }
+    .tb-megamenu {
+        background: none !important;
+        float: left;
+    }
+    #navbar ul li {
+        color: white;
+    }
+    .tb-megamenu .nav > li >a {
+        color: white;
+        font-weight: lighter;
+        height: $navbuttonheight768;
+        width: $navbuttonwidth768;
+    }
+    .navbar>.container .navbar-brand {
+        margin-left: -15px;
+        position: relative;
+        font-size: 1em;
+        top: 8px;
+    }
+    /* OBS */
+    
+    .view-home {
+        background-color: white;
+    }
+    .pane-allnews {
+        background-color: #1f3c3e;
+    }
+    .pane-title {
+        color: white;
+        margin-left: 10px;
+    }
+    .views-row p {
+        padding: 0px 10px 0px 10px;
+    }
+    .view-content {
+        padding-bottom: 15px;
+    }
+}
+/* Medium devices (desktops, 979px and up) */
+
+@media (min-width: 979px) {
+    .user-profile .group-header .field-item img {
+        width: 25% !important;
+        height: 25% !important;
+    }
+    #navbar {
+        background-color: $main-color;
+        height: $navheight979;
+        border-radius: 0px;
+    }
+    .tb-megamenu .nav-collapse.collapse {
+        display: block !important;
+    }
+    .tb-megamenu {
+        background: none !important;
+        float: left;
+    }
+    #navbar ul li {
+        color: white;
+    }
+    .tb-megamenu .nav > li >a {
+        padding: 20px 0px 0px 3px;
+        text-align: center;
+        color: $main-lighter-color;
+        font-weight: lighter;
+        height: $navbuttonheight979;
+        width: $navbuttonwidth979;
+    }
+    /* OBS */
+    
+    .view-home {
+        background-color: white;
+    }
+    .pane-allnews {
+        background-color: #1f3c3e;
+    }
+    .pane-title {
+        color: white;
+        margin-left: 10px;
+    }
+    .views-row p {
+        padding: 0px 10px 0px 10px;
+    }
+    .view-content {
+        padding-bottom: 15px;
+    }
+}
+/* Medium devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {
+    .navbar>.container .navbar-brand {
+        margin-left: -15px;
+        position: relative;
+        font-size: 1.3em;
+        top: 8px;
+        color: $main-lighter-color;
+    }
+    .tb-megamenu-item .active-trail .active, .tb-megamenu-item .active-trail {
+        background-color: $main-color !important;
+    }
+    .logo img {
+        width: 100%;
+    }
+    .nav .open>a, .nav .open>a:hover {
+        border-right: 2px solid #78cdd3;
+    }
+    .tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+        border-bottom: 3px solid #54a0a5;
+    }
+    #navbar {
+        background-color: $dark;
+        height: $navheight992;
+        border-radius: 0px;
+    }
+    #navbar .navbar-header {
+        float: left;
+    }
+    #navbar .navbar-collapse {
+        float: right;
+        padding-right: 0px;
+    }
+    .panel-panel .page-files {
+        margin-top: 0px;
+        background-color: $dark;
+    }
+    .panel-panel .page-files .pane-title {
+        height: 50px;
+        padding-top: 15px;
+        margin-top: 0px !important;
+        text-align: center;
+    }
+    .panel-panel .page-files .view-content {
+        background-color: white;
+        border-top: 10px solid $main-color;
+    }
+    .tb-megamenu .nav-collapse.collapse {
+        display: block !important;
+    }
+    .tb-megamenu {
+        background: none !important;
+        float: left;
+    }
+    #navbar ul li {
+        color: white;
+    }
+    .tb-megamenu .nav > li >a {
+        border-right: 2px solid $main-darker-color;
+        text-align: center;
+        color: $main-lighter-color;
+        font-weight: lighter;
+        height: $navbuttonheight992;
+        width: $navbuttonwidth992;
+    }
+    .fa {
+        font-size: 2.1em;
+        display: none !important;
+    }
+    /* OBS */
+    
+    .view-home {
+        background-color: white;
+    }
+    .pane-allnews {
+        background-color: #1f3c3e;
+    }
+    .pane-title {
+        color: white;
+        margin-left: 10px;
+    }
+    .views-row p {
+        padding: 0px 10px 0px 10px;
+    }
+    .view-content {
+        padding-bottom: 15px;
+    }
+    /* Afdelingen */
+    
+    .view-afdelingen .view-content .views-row {
+        background-color: white;
+        padding: 5px 0px 79px 0px;
+        margin: 2.5% 2.5% 6% 2.5%;
+        width: 20%;
+        height: 256px;
+    }
+    .node .content {
+        background-color: transparent;
+        padding: 15px;
+    }
+    #block-logintoboggan-logintoboggan-logged-in {
+        background-color: white;
+        width: auto;
+        text-align: right;
+        float: right;
+        padding: 4px;
+        border: 3px solid #69c8cf;
+        margin-bottom: -34px;
+        margin-top: 10px;
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        position: relative;
+        z-index: 11;
+    }
+    // ------------- De 3 views --------------//
+    .footer.container {
+        padding: 0px;
+    }
+    .view-general-information .views-row .views-row-title, .view-drifts-information .views-row .views-row-title, .view-afdelings-information .views-row .views-row-title {
+        background: $dark;
+        height: 60px;
+        border-bottom: 8px solid $post-light-color;
+        padding-top: 15px;
+        margin-top: 0px;
+    }
+    .view-general-information .views-row .views-row-title a, .view-drifts-information .views-row .views-row-title a, .view-afdelings-information .views-row .views-row-title a {
+        color: $main-lighter-color;
+        text-decoration: none;
+        padding-left: 10px;
+    }
+    .view-general-information .views-row, .view-drifts-information .views-row, .view-afdelings-information .views-row {
+        background: white;
+        padding-bottom: 20px;
+    }
+    .view-general-information .views-row, .view-drifts-information .views-row, .view-afdelings-information .views-row, .pane-simplenews-35, .pane-simplenews-36, .pane-simplenews-37, {
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-bottom: 20px;
+    }
+    .pane-simplenews-35 .pane-title, .pane-simplenews-36 .pane-title, .pane-simplenews-37 .pane-title {
+        margin-left: 0px;
+        color: $main-lighter-color;
+        height: 60px;
+        background: $dark;
+        border-bottom: 8px solid $post-light-color;
+        padding-top: 15px;
+        padding-left: 10px;
+    }
+    .view-files, .pane-simplenews-35, .pane-simplenews-36, .pane-simplenews-37 {
+        background: white;
+    }
+    .pane-simplenews-35 .pane-content, .pane-simplenews-36 .pane-content, .pane-simplenews-37 .pane-content {
+        padding: 15px;
+    }
+    .view-general-information .views-field .col-md-12, .view-drifts-information .views-field .col-md-12, .view-afdelings-information .views-field .col-md-12 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .view-general-information .views-image, .view-drifts-information .views-image, .view-afdelings-information .views-image {
+        float: left;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    .view-general-information .views-image-body, .view-drifts-information .views-image-body, .view-afdelings-information .views-image-body {
+        min-height: 100px;
+    }
+    .view-files h2 {
+        margin-top: 0px;
+        font-size: 2em;
+    }
+    .view-files .views-row {
+        padding: 15px;
+    }
+    .view-files .view-content {
+        padding-bottom: 0px;
+    }
+    .view-files .views-row-even {
+        background: $even;
+    }
+    .view-vagtplan {
+        margin-top: 40px;
+    }
+    // ----- De 3 views END -----//
+    .ansat-info {
+        background-color: $dark;
+        padding: 5px;
+        padding-left: 10px;
+        padding-top: 0px;
+    }
+    .ansat-info a {
+        color: $ansat-info-links;
+    }
+    .ansat-img {
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+        float: none;
+    }
+    .ansat-img img {
+        border-radius: 50%;
+        border: 4px solid #5eb4ba;
+        display: inline;
+    }
+    .ansat-fornavn {
+        color: $main-color;
+        text-align: center;
+        margin: 10px 0px 10px 0px;
+        display: block;
+    }
+    /// -------------- Mini-Kalender --------------///
+    .pane-vagtplan .date-nav {
+        background: $dark !important;
+        margin: 0px;
+        padding: 0px;
+    }
+    .pane-vagtplan .date-nav h3 a {
+        color: #e1f4f5 !important;
+    }
+    .pane-vagtplan .view-vagtplan {
+        background-color: white;
+    }
+    .mini {
+        background-color: white;
+        /*kaldender baggrund*/
+    }
+    .mini-day-off {
+        color: #346467;
+        /* kalender tekst */
+    }
+    .mini-day-on {
+        background-color: rgba(225, 244, 245, 1);
+    }
+    .mini-day-on, .mini-day-off {
+        text-align: center;
+    }
+    .mini a {
+        color: #346467;
+        text-decoration: none;
+    }
+    .calendar-calendar .month-view .mini .days {
+        background-color: white;
+        color: #54a0a5;
+        border: 0px solid #54a0a5;
+    }
+    .pane-vagtplan .view .date-heading h3 {
+        padding-top: 10px;
+    }
+    ////** ------ Kalender Buttons -------------////
+    .pager {
+        margin-bottom: 0px;
+    }
+    .pane-vagtplan .pager .date-prev a, .pane-vagtplan .pager .date-next a {
+        font-size: 1.8em;
+        color: $main-lighter-color;
+    }
+    .pane-vagtplan .pager .date-next a {
+        background-color: transparent !important;
+        /* float: left; */
+        
+        position: absolute;
+        top: 9px;
+        right: 10px;
+        width: 20px;
+        height: 28px;
+        border: none;
+    }
+    ////** ------- Kalender Buttons END ---------////
+    /// ------------ Kalender END ---------------///
+}
+/* Large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {
+    .user-profile .group-header .field-item img {
+        width: 35% !important;
+        height: 35% !important;
+    }
+    .logo {
+        display: block;
+    }
+    .navbar>.container .navbar-brand {
+        margin-left: -15px;
+        position: relative;
+        font-size: 1.5em;
+        top: 8px;
+        color: $main-lighter-color;
+    }
+    /// ** --------------- Main Menu ----------------------**///
+    .tb-megamenu-item .active-trail .active, .tb-megamenu-item .active-trail {
+        background-color: $main-color !important;
+    }
+    .nav .open>a, .nav .open>a:hover {
+        border-right: 2px solid #78cdd3;
+    }
+    .tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+        border-bottom: 5px solid $post-light-color !important;
+        border-right: 2px solid $main-darker-color;
+    }
+    .tb-megamenu .nav-collapse .nav > li > a {
+        background-color: $dark;
+    }
+    #navbar {
+        background-color: $dark;
+        height: $navheight1200;
+        border-radius: 0px;
+    }
+    #navbar ul {
+        border-left: 2px solid $post-light-color;
+    }
+    #navbar ul li ul li a {
+        border-left: none !important;
+    }
+    .tb-megamenu .nav-collapse.collapse {
+        display: block !important;
+    }
+    .tb-megamenu {
+        background: none !important;
+        float: left;
+    }
+    #navbar ul li {
+        color: white;
+    }
+    #navbar .navbar-header {
+        float: left;
+    }
+    #navbar .navbar-collapse {
+        float: right;
+    }
+    .tb-megamenu .nav > li >a {
+        border-right: 2px solid $main-darker-color;
+        font-size: 1.4em;
+        font-weight: lighter;
+        /*padding: 15px 0px 0px 0px;*/
+        
+        height: $navbuttonheight1200;
+        width: $navbuttonwidth1200;
+    }
+    .tb-megamenu .dropdown-menu li > a {
+        border-top: none;
+    }
+    .tb-megamenu .dropdown-menu li > a:hover {
+        background-color: $post-light-color;
+    }
+    .tb-megamenu .nav li.dropdown.open > .dropdown-toggle {
+        background-color: transparent !important;
+        color: $main-lighter-color !important;
+    }
+    .fa {
+        font-size: .9em;
+        display: inline !important;
+    }
+    /* OBS */
+    
+    .view-home {
+        background-color: white;
+    }
+    .pane-allnews {
+        background-color: #1f3c3e;
+    }
+    .pane-title {
+        color: white;
+        margin-left: 10px;
+    }
+    .views-row p {
+        padding: 0px 10px 0px 10px;
+    }
+    .view-content {
+        padding-bottom: 15px;
+    }
+    /* panel views all news */
+    
+    .pane-allnews .views-row-even {
+        background: rgba(105, 205, 208, 0.1);
+    }
+    .pane-allnews .views-row p, .pane-allnews .overinfo {
+        padding-top: 1px;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+    }
+    .pane-allnews .overinfo h3 {
+        margin-bottom: 10px;
+    }
+    /* Panel Files */
+    
+    .panel-panel .page-files {
+        //margin-top: 10px;
+        background-color: $dark;
+    }
+    .panel-panel .page-files .pane-title {
+        height: 50px;
+        padding-top: 15px;
+        text-align: center;
+    }
+    .panel-panel .page-files .view-content {
+        background-color: white;
+        border-top: 10px solid $main-color;
+    }
+    .pane-files .views-field-body .field-content {
+        display: none !important;
+    }
+    .pane-files .author {
+        display: inline;
+    }
+    .panel-pane.pane-views.pane-files.page-files {
+        margin-top: 30px;
+    }
+    /* Afdelingen */
+    
+    .view-afdelingen .view-content .views-row {
+        background-color: white;
+        padding: 5px 0px 0px 0px;
+        margin: 28px;
+        width: 20%;
+        height: auto;
+    }
+    .ansat-info {
+        background-color: $dark;
+        padding: 5px;
+        padding-left: 10px;
+        color: $main-lighter-color;
+    }
+    .ansat-info a {
+        color: $main-lighter-color;
+    }
+    .ansat-img {
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+        float: none;
+    }
+    .ansat-img img {
+        border-radius: 50%;
+        border: 4px solid #5eb4ba;
+        display: inline;
+    }
+    .ansat-fornavn {
+        color: $main-color;
+        text-align: center;
+        margin: 10px 0px 10px 0px;
+        display: block;
+    }
+    /// -------------- Mini-Kalender --------------///
+    .pane-vagtplan .date-nav {
+        background: $dark !important;
+        margin: 0px;
+        padding: 0px;
+    }
+    .pane-vagtplan .date-nav h3 a {
+        color: #e1f4f5 !important;
+    }
+    .pane-vagtplan .view-vagtplan {
+        background-color: white;
+    }
+    .pane-vagtplan {
+        margin-top: 40px;
+    }
+    .mini {
+        background-color: white;
+        /*kaldender baggrund*/
+    }
+    .mini-day-off {
+        color: #346467;
+        /* kalender tekst */
+    }
+    .mini-day-on {
+        background-color: rgba(225, 244, 245, 1);
+    }
+    .mini-day-on, .mini-day-off {
+        text-align: center;
+    }
+    .mini a {
+        color: #346467;
+        text-decoration: none;
+    }
+    .calendar-calendar .month-view .mini .days {
+        background-color: white;
+        color: #54a0a5;
+        border: 0px solid #54a0a5;
+    }
+    .pane-vagtplan .view .date-heading h3 {
+        padding-top: 10px;
+    }
+    .main-container .row>section {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    ////** ------ Kalender Buttons -------------////
+    .pager {
+        margin-bottom: 0px;
+    }
+    .pane-vagtplan .pager .date-prev a, .pane-vagtplan .pager .date-next a {
+        font-size: 1.8em;
+        color: $main-lighter-color;
+    }
+    .pane-vagtplan .pager .date-next a {
+        background-color: transparent !important;
+        /* float: left; */
+        
+        position: absolute;
+        top: 9px;
+        right: 10px;
+        width: 20px;
+        height: 28px;
+        border: none;
+    }
+    ////** ------- Kalender Buttons END ---------////
+    /// ------------ Kalender END ---------------///
+    // ------------- De 3 views --------------//
+    .view-general-information .views-row .views-row-title, .view-drifts-information .views-row .views-row-title, .view-afdelings-information .views-row .views-row-title {
+        background: $dark;
+        height: 60px;
+        border-bottom: 8px solid $post-light-color;
+        padding-top: 15px;
+        margin-top: 0px;
+    }
+    .view-general-information .views-row .views-row-title a, .view-drifts-information .views-row .views-row-title a, .view-afdelings-information .views-row .views-row-title a {
+        color: $main-lighter-color;
+        text-decoration: none;
+        padding-left: 10px;
+    }
+    .view-general-information .views-row, .view-drifts-information .views-row, .view-afdelings-information .views-row {
+        background: white;
+        padding-bottom: 20px;
+    }
+    .view-general-information .views-row, .view-drifts-information .views-row, .view-afdelings-information .views-row, .pane-simplenews-35, .pane-simplenews-36, .pane-simplenews-37, {
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-bottom: 20px;
+    }
+    .pane-simplenews-35 .pane-title, .pane-simplenews-36 .pane-title, .pane-simplenews-37 .pane-title {
+        margin-left: 0px;
+        color: $main-lighter-color;
+        height: 60px;
+        background: $dark;
+        border-bottom: 8px solid $post-light-color;
+        padding-top: 15px;
+        padding-left: 10px;
+    }
+    .view-files, .pane-simplenews-35, .pane-simplenews-36, .pane-simplenews-37 {
+        background: white;
+    }
+    .pane-simplenews-35 .pane-content, .pane-simplenews-36 .pane-content, .pane-simplenews-37 .pane-content {
+        padding: 15px;
+    }
+    .view-general-information .views-field .col-md-12, .view-drifts-information .views-field .col-md-12, .view-afdelings-information .views-field .col-md-12 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .view-general-information .views-image, .view-drifts-information .views-image, .view-afdelings-information .views-image {
+        float: left;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    .view-general-information .views-image-body, .view-drifts-information .views-image-body, .view-afdelings-information .views-image-body {
+        min-height: 100px;
+    }
+    .view-files h2 {
+        margin-top: 0px;
+        font-size: 2em;
+    }
+    .view-files .views-row {
+        padding: 15px;
+    }
+    .view-files .view-content {
+        padding-bottom: 0px;
+    }
+    .view-vagtplan {
+        margin-top: 40px;
+    }
+    // ----- De 3 views END -----//
+    // Enkelte nodes!
+    .page-header {
+        background: $dark;
+        height: 70px;
+        margin-bottom: 0px;
+        padding-top: 20px;
+        border-bottom: 8px solid $post-light-color;
+        padding: 20px;
+        color: $main-lighter-color;
+    }
+    .node .content {
+        background: white;
+    }
+    .node .field-name-body {
+        padding: 0px 20px 20px 20px;
+        min-height: 245px;
+    }
+    .node .field-name-field-update, .node .field-name-field-news, .node .field-name-field-simplenews-term, .node .field-name-field-news-image {
+        margin-left: 20px;
+    }
+    .node .field-name-field-simplenews-term {
+        display: inline-block;
+        float: left;
+        background-color: $main-color;
+        text-decoration: none;
+        border-radius: 4px;
+        padding: 0px 3px 0px 3px;
+        //margin-top: 5px;
+    }
+    .node .field-name-field-simplenews-term a {
+        color: white;
+    }
+    .node .field-name-field-update {
+        //margin-top:5px;
+    }
+    .node .field-name-field-news-image {
+        float: left;
+        padding: 5px 5px 5px 0px;
+    }
+    .submitted {
+        margin-bottom: 1em;
+        font-style: italic;
+        font-weight: 400;
+        color: #777;
+        background: white;
+        margin: 0px;
+    }
+    // END
+    #block-logintoboggan-logintoboggan-logged-in {
+        background-color: white;
+        width: auto;
+        text-align: right;
+        float: right;
+        padding: 4px;
+        border: 3px solid $main-color;
+        margin-bottom: -34px;
+        margin-top: 10px;
+        border-top-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        position: relative;
+        z-index: 11;
+    }
+    .form-item-ugedage, .form-item-maaned {
+        margin-top: 10px;
+        width: 49%;
+        float: left;
+    }
+    .form-item-maaned {
+        float: right
+    }
+    .footer {
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+    // WIKI
+    .field-name-field-sub-page .field-item {
+        margin: 10px;
+    }
+    .field-name-field-sub-page .field-item a {
+        text-decoration: none;
+        color: $dark;
+        font-weight: 600;
+    }
+    .field-name-field-sub-page .field-item:hover {
+        background-color: $main-color;
+        color: white;
+    }
+    // Profile!!!
+    .user-profile, {
+        background: white;
+    }
+    .field-name-field-user-fornavn {
+        float: left;
+        margin-right: 5px;
+        font-weight: 600;
+    }
+    .field-name-field-user-efternavn {
+        margin-right: 5px;
+        font-weight: 600;
+    }
+    .page-user .page-header, .user-profile, .nav-tabs {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .group-header {
+        height: 330px;
+    }
+    .group-header .field-name-field-user-fornavn {
+        display: block;
+        float: left;
+        margin-left: auto;
+        margin-right: 10px;
+        text-align: center;
+    }
+    .group-left dl, .group-footer h3 {
+        margin: 0px;
+    }
+    .group-header, .group-left, .group-footer {
+        padding: 10px;
+    }
+    //** LOGIN **//
+    #block-user-login {
+        background: white;
+        padding-bottom: 10px;
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    #block-user-login .block-title {
+        background: $dark;
+        border-bottom: 5px solid $post-light-color;
+        padding-left: 25px;
+    }
+    #block-user-login h2 {
+        color: $main-lighter-color;
+        margin: 0px;
+        height: 70px;
+        line-height: 70px;
+    }
+    #user-login-form {
+        padding: 30px;
+    }
+    //** LOGIN END**//
+    .page-calendar .pager .date-prev, .page-calendar .pager .date-next {
+        color: $main-lighter-color;
+        line-height: 70px;
+    }
+    .page-calendar .date-nav-wrapper {
+        background-color: #54a0a5;
+        border-bottom: 10px solid #69c8cf !important;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        height: 70px;
+    }
+    .page-user .pagination {
+        margin-left: 25%;
+    }
+    .page-user .region-content {
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        background: white;
+        //padding: 10px;
+    }
+    .page-user .page-header {
+        width: 50%;
+    }
+    ul.tabs--secondary.pagination.pagination-sm {
+        display: inline-block;
+        background: white;
+        width: 50%;
+    }
+    .user-profile {
+        width: 100%;
+    }
+}

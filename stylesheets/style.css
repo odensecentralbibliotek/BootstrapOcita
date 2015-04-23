@@ -1,0 +1,1717 @@
+/** -------------  --------------- **/
+/* line 26, ../sass/style.scss */
+.user-profile .group-header {
+  color: #78cdd3;
+}
+
+/* line 29, ../sass/style.scss */
+.user-profile .group-left, .user-profile .group-footer, .user-profile .group-left h3, .user-profile .group-footer h3, .user-profile .group-left dt, .user-profile .group-footer dt {
+  color: #e1f4f5;
+  font-size: 1em;
+  font-weight: 100;
+}
+
+/* line 34, ../sass/style.scss */
+.user-profile .group-left dl, .user-profile .group-footer dl, .user-profile .group-left h3, .user-profile .group-footer h3 {
+  margin: 0px;
+  line-height: 20px;
+}
+
+/* line 38, ../sass/style.scss */
+.user-profile .group-left a, .user-profile .group-footer a {
+  color: #e1f4f5;
+}
+
+/* line 41, ../sass/style.scss */
+.user-profile .group-header {
+  padding-top: 40px;
+}
+
+/* line 44, ../sass/style.scss */
+ul.tabs--primary.nav.nav-tabs {
+  background: white;
+  margin-bottom: 0px;
+}
+
+/* line 48, ../sass/style.scss */
+ul.tabs--secondary.pagination.pagination-sm {
+  display: inline-block;
+  background: white;
+  width: 100%;
+}
+
+/* line 53, ../sass/style.scss */
+.page-user .pagination {
+  margin-bottom: 0px;
+}
+
+/* line 56, ../sass/style.scss */
+.page-user .region-content {
+  background: white;
+}
+
+/* line 60, ../sass/style.scss */
+.page-user-edit .region-content {
+  padding: 10px;
+}
+
+/* line 63, ../sass/style.scss */
+.page-header {
+  background: #54a0a5;
+  height: 70px;
+  margin-bottom: 0px;
+  padding-top: 20px;
+  border-bottom: 8px solid #87d3d8;
+  padding: 20px;
+  color: #e1f4f5;
+  line-height: 27px;
+}
+
+/* line 73, ../sass/style.scss */
+.user-profile .group-header .field-item img {
+  border-radius: 50%;
+  text-align: center;
+  display: block;
+  position: relative;
+  border: 5px solid #54a0a5;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 82, ../sass/style.scss */
+.user-profile .group-left, .group-footer {
+  background: #54a0a5;
+  padding: 10px;
+}
+
+/* line 86, ../sass/style.scss */
+.group-header .field-name-field-user-fornavn, .group-header .field-name-field-user-efternavn {
+  font-size: 2em;
+}
+
+/* line 89, ../sass/style.scss */
+.user-profile .group-header .field-item img {
+  width: 45% !important;
+  height: 45% !important;
+}
+
+/* line 94, ../sass/style.scss */
+a {
+  color: #54a0a5;
+}
+
+/* line 97, ../sass/style.scss */
+#block-user-login {
+  background: white;
+  padding-bottom: 10px;
+  display: block;
+}
+
+/* line 102, ../sass/style.scss */
+#block-user-login .form-text, #block-user-login #edit-submit {
+  border-color: #87d3d8;
+}
+
+/* line 105, ../sass/style.scss */
+#block-user-login .block-title {
+  background: #54a0a5;
+  border-bottom: 5px solid #87d3d8;
+  padding-left: 25px;
+}
+
+/* line 110, ../sass/style.scss */
+#block-user-login h2 {
+  color: #e1f4f5;
+  margin: 0px;
+  height: 70px;
+  line-height: 70px;
+}
+
+/* line 116, ../sass/style.scss */
+#user-login-form {
+  padding: 30px;
+}
+
+/* line 119, ../sass/style.scss */
+.page-statistik .row, .page-statistik .row pre {
+  background: white;
+  border: none;
+}
+
+/* line 123, ../sass/style.scss */
+#edit-ugedage, #edit-maaned {
+  margin-top: 0px;
+  border-color: #87d3d8;
+}
+
+/* line 128, ../sass/style.scss */
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+  background: #69c8cf;
+  border-color: #69c8cf;
+}
+
+/* line 132, ../sass/style.scss */
+.view-files .views-row-even {
+  background: rgba(105, 205, 208, 0.2);
+}
+
+/* line 135, ../sass/style.scss */
+.view-files {
+  background: white;
+}
+
+/* line 138, ../sass/style.scss */
+.kategori {
+  display: inline;
+  background-color: #69c8cf;
+  text-decoration: none;
+  border-radius: 4px;
+  padding: 3px;
+}
+
+/* line 145, ../sass/style.scss */
+.calendar a {
+  color: white;
+}
+
+/* line 148, ../sass/style.scss */
+.page-calendar .date-nav-wrapper {
+  background-color: #54a0a5;
+  border-bottom: 10px solid #69c8cf !important;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  height: 50px;
+}
+
+/* line 155, ../sass/style.scss */
+.page-calendar .pager .date-prev, .page-calendar .pager .date-next {
+  color: #e1f4f5;
+  line-height: 0px;
+}
+
+/* line 159, ../sass/style.scss */
+.kategori a {
+  color: white !important;
+}
+
+/* line 162, ../sass/style.scss */
+.created {
+  display: inline;
+}
+
+/* line 165, ../sass/style.scss */
+.pane-vagtplan ul {
+  padding: 0px 0px 15px 0px;
+}
+
+/* line 168, ../sass/style.scss */
+.pane-vagtplan ul li {
+  list-style: none;
+  padding: 10px;
+}
+
+/* line 172, ../sass/style.scss */
+.pane-vagtplan h4 {
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+/* line 176, ../sass/style.scss */
+.pane-vagtplan .views-row-even {
+  background: #EFF9FA;
+}
+
+/* line 179, ../sass/style.scss */
+body {
+  background-color: #EAEDF2;
+}
+
+/* line 182, ../sass/style.scss */
+button.navbar-toggle {
+  right: 10px;
+}
+
+/* line 185, ../sass/style.scss */
+.navbar > .container .navbar-brand {
+  margin-left: -5px;
+  position: relative;
+  font-size: 1.25em;
+  top: 6px;
+  color: #e1f4f5;
+}
+
+/* line 192, ../sass/style.scss */
+.logo img {
+  padding-top: 5px;
+  width: 80%;
+}
+
+/* line 196, ../sass/style.scss */
+#navbar a > is {
+  display: block;
+}
+
+/* line 199, ../sass/style.scss */
+a:before {
+  position: relative;
+  width: 100%;
+}
+
+/* line 203, ../sass/style.scss */
+.navbar-toggle {
+  position: absolute;
+  margin-top: 11px;
+}
+
+/* line 207, ../sass/style.scss */
+.nav .open > a, .nav .open > a:hover {
+  border-right: 2px solid #78cdd3;
+}
+
+/* line 211, ../sass/style.scss */
+.tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+  border-bottom: 3px solid #54a0a5;
+}
+
+/* line 214, ../sass/style.scss */
+.tb-megamenu .nav-collapse .dropdown-menu {
+  background-color: white !important;
+  border: 2px solid #69c8cf;
+  border-left: none;
+  border-right: none;
+}
+
+/* line 220, ../sass/style.scss */
+.tb-megamenu .nav-collapse {
+  position: relative;
+  z-index: 999;
+  height: auto;
+  top: 0px !important;
+}
+
+/* line 226, ../sass/style.scss */
+.tb-megamenu .nav-collapse.collapse {
+  display: block !important;
+}
+
+/* line 229, ../sass/style.scss */
+.tb-megamenu {
+  background: none !important;
+}
+
+/* line 232, ../sass/style.scss */
+.tb-megamenu .nav > .active > a {
+  background-color: #54a0a5 !important;
+}
+
+/* line 235, ../sass/style.scss */
+.tb-megamenu .nav-collapse .nav > li > a {
+  background-color: #54a0a5;
+}
+
+/* line 238, ../sass/style.scss */
+.tb-megamenu .nav-collapse .dropdown-menu a {
+  color: #54a0a5 !important;
+}
+
+/* line 241, ../sass/style.scss */
+.tb-megamenu .nav-collapse .nav > li > a:hover, .tb-megamenu .nav-collapse .nav > li > a:focus {
+  background: #54a0a5 !important;
+  color: white !important;
+}
+
+/* line 245, ../sass/style.scss */
+.tb-megamenu .dropdown-menu .active > a {
+  color: #fff !important;
+  text-decoration: none;
+  outline: 0;
+  background-color: #54a0a5 !important;
+  background-image: none !important;
+  background-repeat: none !important;
+}
+
+/* line 254, ../sass/style.scss */
+#navbar {
+  background-color: #54a0a5;
+  height: 60px;
+  border-radius: 0px;
+  margin-top: 0px;
+  padding-right: 0px;
+}
+
+/* line 261, ../sass/style.scss */
+#navbar ul li {
+  color: white;
+}
+
+/* line 264, ../sass/style.scss */
+.fa {
+  display: inline !important;
+}
+
+/* line 267, ../sass/style.scss */
+.ansat-fornavn {
+  display: none;
+}
+
+/* line 270, ../sass/style.scss */
+.ansat-img {
+  float: left;
+}
+
+/* line 273, ../sass/style.scss */
+.view-afdelingen .view-content .views-row {
+  height: 140px;
+  margin: 1px;
+}
+
+/* line 278, ../sass/style.scss */
+.ansat-info {
+  padding-top: 15px;
+}
+
+/* line 282, ../sass/style.scss */
+.pane-vagtplan .date-nav {
+  background: #54a0a5 !important;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* line 287, ../sass/style.scss */
+.pane-vagtplan .date-nav h3 a {
+  color: #e1f4f5 !important;
+}
+
+/* line 290, ../sass/style.scss */
+.pane-vagtplan .view-vagtplan {
+  background-color: white;
+}
+
+/* line 293, ../sass/style.scss */
+.mini {
+  background-color: white;
+  /*kaldender baggrund*/
+}
+
+/* line 297, ../sass/style.scss */
+.mini-day-off {
+  color: #346467;
+  /* kalender tekst */
+}
+
+/* line 301, ../sass/style.scss */
+.mini-day-on {
+  background-color: #e1f4f5;
+}
+
+/* line 304, ../sass/style.scss */
+.mini-day-on, .mini-day-off {
+  text-align: center;
+}
+
+/* line 307, ../sass/style.scss */
+.mini a {
+  color: #346467;
+  text-decoration: none;
+}
+
+/* line 311, ../sass/style.scss */
+.calendar-calendar .month-view .mini .days {
+  background-color: white;
+  color: #54a0a5;
+  border: 0px solid #54a0a5;
+}
+
+/* line 316, ../sass/style.scss */
+.calendar h4 {
+  font-size: 1em;
+  display: inline-block;
+}
+
+/* line 320, ../sass/style.scss */
+.pane-vagtplan .view .date-heading h3 {
+  padding-top: 10px;
+}
+
+/* line 324, ../sass/style.scss */
+.pager {
+  margin-bottom: 0px;
+}
+
+/* line 327, ../sass/style.scss */
+.pane-vagtplan .pager .date-prev a, .pane-vagtplan .pager .date-next a {
+  font-size: 1.8em;
+  color: #e1f4f5;
+}
+
+/* line 331, ../sass/style.scss */
+.view-files .views-exposed-form {
+  background-color: #87d3d8;
+}
+
+/* line 334, ../sass/style.scss */
+.view-files .views-exposed-widgets {
+  margin-bottom: 0px;
+}
+
+/* line 337, ../sass/style.scss */
+.view-files .views-exposed-widget {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  padding-top: 0px;
+}
+
+/* line 342, ../sass/style.scss */
+.view-files .views-exposed-widget .form-type-radio {
+  margin-top: 0px;
+}
+
+/* line 345, ../sass/style.scss */
+.views-exposed-widget label, .view-files .views-exposed-widget .views-widget label {
+  color: #e1f4f5 !important;
+}
+
+/* line 348, ../sass/style.scss */
+.view-files .author {
+  display: inline-block;
+}
+
+/* line 354, ../sass/style.scss */
+.pane-allnews img {
+  display: inline-block;
+  float: left;
+  margin-left: 0px;
+  margin-right: 10px;
+}
+
+/* line 360, ../sass/style.scss */
+.pane-vagtplan .pane-title {
+  height: 20px !important;
+}
+
+/* line 363, ../sass/style.scss */
+.pane-allnews .views-row {
+  padding: 10px;
+  display: inline-block;
+  width: 100%;
+  background: white;
+}
+
+/* line 370, ../sass/style.scss */
+.view-allnews .views-row-even {
+  background: rgba(105, 205, 208, 0.1);
+}
+
+/* line 373, ../sass/style.scss */
+.view-allnews .views-row h3 {
+  margin: 5px;
+}
+
+/* line 376, ../sass/style.scss */
+.view-allnews .overinfo {
+  padding: 5px 0px 5px 0px;
+}
+
+/* line 381, ../sass/style.scss */
+.view-drifts-information .views-image, .view-afdelings-information .views-image, .view-general-information .views-image {
+  float: left;
+}
+
+/* line 386, ../sass/style.scss */
+#nyhed-node-form, #file-update-node-form, #submenu-node-form, #event-node-form {
+  background: white;
+  padding: 10px;
+}
+
+/* line 390, ../sass/style.scss */
+.calendar-calendar td {
+  border: none;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  /* line 396, ../sass/style.scss */
+  .user-profile .group-header .field-item img {
+    width: 25% !important;
+    height: 25% !important;
+  }
+
+  /* line 400, ../sass/style.scss */
+  .logo {
+    display: block;
+  }
+
+  /* line 403, ../sass/style.scss */
+  .nav .open > a, .nav .open > a:hover {
+    border-right: 2px solid #78cdd3;
+  }
+
+  /* line 406, ../sass/style.scss */
+  .tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+    border-bottom: 3px solid #54a0a5;
+  }
+
+  /* line 409, ../sass/style.scss */
+  #navbar {
+    background-color: #69c8cf;
+    height: 65px;
+    border-radius: 0px;
+  }
+
+  /* line 414, ../sass/style.scss */
+  .tb-megamenu .nav-collapse.collapse {
+    display: block !important;
+  }
+
+  /* line 417, ../sass/style.scss */
+  .tb-megamenu {
+    background: none !important;
+    float: left;
+  }
+
+  /* line 421, ../sass/style.scss */
+  #navbar ul li {
+    color: white;
+  }
+
+  /* line 424, ../sass/style.scss */
+  .tb-megamenu .nav > li > a {
+    color: white;
+    font-weight: lighter;
+    height: 63px;
+    width: 63px;
+  }
+
+  /* line 430, ../sass/style.scss */
+  .navbar > .container .navbar-brand {
+    margin-left: -15px;
+    position: relative;
+    font-size: 1em;
+    top: 8px;
+  }
+
+  /* OBS */
+  /* line 438, ../sass/style.scss */
+  .view-home {
+    background-color: white;
+  }
+
+  /* line 441, ../sass/style.scss */
+  .pane-allnews {
+    background-color: #1f3c3e;
+  }
+
+  /* line 444, ../sass/style.scss */
+  .pane-title {
+    color: white;
+    margin-left: 10px;
+  }
+
+  /* line 448, ../sass/style.scss */
+  .views-row p {
+    padding: 0px 10px 0px 10px;
+  }
+
+  /* line 451, ../sass/style.scss */
+  .view-content {
+    padding-bottom: 15px;
+  }
+}
+/* Medium devices (desktops, 979px and up) */
+@media (min-width: 979px) {
+  /* line 458, ../sass/style.scss */
+  .user-profile .group-header .field-item img {
+    width: 25% !important;
+    height: 25% !important;
+  }
+
+  /* line 462, ../sass/style.scss */
+  #navbar {
+    background-color: #69c8cf;
+    height: 70px;
+    border-radius: 0px;
+  }
+
+  /* line 467, ../sass/style.scss */
+  .tb-megamenu .nav-collapse.collapse {
+    display: block !important;
+  }
+
+  /* line 470, ../sass/style.scss */
+  .tb-megamenu {
+    background: none !important;
+    float: left;
+  }
+
+  /* line 474, ../sass/style.scss */
+  #navbar ul li {
+    color: white;
+  }
+
+  /* line 477, ../sass/style.scss */
+  .tb-megamenu .nav > li > a {
+    padding: 20px 0px 0px 3px;
+    text-align: center;
+    color: #e1f4f5;
+    font-weight: lighter;
+    height: 68px;
+    width: 90px;
+  }
+
+  /* OBS */
+  /* line 487, ../sass/style.scss */
+  .view-home {
+    background-color: white;
+  }
+
+  /* line 490, ../sass/style.scss */
+  .pane-allnews {
+    background-color: #1f3c3e;
+  }
+
+  /* line 493, ../sass/style.scss */
+  .pane-title {
+    color: white;
+    margin-left: 10px;
+  }
+
+  /* line 497, ../sass/style.scss */
+  .views-row p {
+    padding: 0px 10px 0px 10px;
+  }
+
+  /* line 500, ../sass/style.scss */
+  .view-content {
+    padding-bottom: 15px;
+  }
+}
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  /* line 507, ../sass/style.scss */
+  .navbar > .container .navbar-brand {
+    margin-left: -15px;
+    position: relative;
+    font-size: 1.3em;
+    top: 8px;
+    color: #e1f4f5;
+  }
+
+  /* line 514, ../sass/style.scss */
+  .tb-megamenu-item .active-trail .active, .tb-megamenu-item .active-trail {
+    background-color: #69c8cf !important;
+  }
+
+  /* line 517, ../sass/style.scss */
+  .logo img {
+    width: 100%;
+  }
+
+  /* line 520, ../sass/style.scss */
+  .nav .open > a, .nav .open > a:hover {
+    border-right: 2px solid #78cdd3;
+  }
+
+  /* line 523, ../sass/style.scss */
+  .tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+    border-bottom: 3px solid #54a0a5;
+  }
+
+  /* line 526, ../sass/style.scss */
+  #navbar {
+    background-color: #54a0a5;
+    height: 60px;
+    border-radius: 0px;
+  }
+
+  /* line 531, ../sass/style.scss */
+  #navbar .navbar-header {
+    float: left;
+  }
+
+  /* line 534, ../sass/style.scss */
+  #navbar .navbar-collapse {
+    float: right;
+    padding-right: 0px;
+  }
+
+  /* line 538, ../sass/style.scss */
+  .panel-panel .page-files {
+    margin-top: 0px;
+    background-color: #54a0a5;
+  }
+
+  /* line 542, ../sass/style.scss */
+  .panel-panel .page-files .pane-title {
+    height: 50px;
+    padding-top: 15px;
+    margin-top: 0px !important;
+    text-align: center;
+  }
+
+  /* line 548, ../sass/style.scss */
+  .panel-panel .page-files .view-content {
+    background-color: white;
+    border-top: 10px solid #69c8cf;
+  }
+
+  /* line 552, ../sass/style.scss */
+  .tb-megamenu .nav-collapse.collapse {
+    display: block !important;
+  }
+
+  /* line 555, ../sass/style.scss */
+  .tb-megamenu {
+    background: none !important;
+    float: left;
+  }
+
+  /* line 559, ../sass/style.scss */
+  #navbar ul li {
+    color: white;
+  }
+
+  /* line 562, ../sass/style.scss */
+  .tb-megamenu .nav > li > a {
+    border-right: 2px solid #78cdd3;
+    text-align: center;
+    color: #e1f4f5;
+    font-weight: lighter;
+    height: 58px;
+    width: 100px;
+  }
+
+  /* line 570, ../sass/style.scss */
+  .fa {
+    font-size: 2.1em;
+    display: none !important;
+  }
+
+  /* OBS */
+  /* line 576, ../sass/style.scss */
+  .view-home {
+    background-color: white;
+  }
+
+  /* line 579, ../sass/style.scss */
+  .pane-allnews {
+    background-color: #1f3c3e;
+  }
+
+  /* line 582, ../sass/style.scss */
+  .pane-title {
+    color: white;
+    margin-left: 10px;
+  }
+
+  /* line 586, ../sass/style.scss */
+  .views-row p {
+    padding: 0px 10px 0px 10px;
+  }
+
+  /* line 589, ../sass/style.scss */
+  .view-content {
+    padding-bottom: 15px;
+  }
+
+  /* Afdelingen */
+  /* line 594, ../sass/style.scss */
+  .view-afdelingen .view-content .views-row {
+    background-color: white;
+    padding: 5px 0px 79px 0px;
+    margin: 2.5% 2.5% 6% 2.5%;
+    width: 20%;
+    height: 256px;
+  }
+
+  /* line 601, ../sass/style.scss */
+  .node .content {
+    background-color: transparent;
+    padding: 15px;
+  }
+
+  /* line 605, ../sass/style.scss */
+  #block-logintoboggan-logintoboggan-logged-in {
+    background-color: white;
+    width: auto;
+    text-align: right;
+    float: right;
+    padding: 4px;
+    border: 3px solid #69c8cf;
+    margin-bottom: -34px;
+    margin-top: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: relative;
+    z-index: 11;
+  }
+
+  /* line 620, ../sass/style.scss */
+  .footer.container {
+    padding: 0px;
+  }
+
+  /* line 623, ../sass/style.scss */
+  .view-general-information .views-row .views-row-title, .view-drifts-information .views-row .views-row-title, .view-afdelings-information .views-row .views-row-title {
+    background: #54a0a5;
+    height: 60px;
+    border-bottom: 8px solid #87d3d8;
+    padding-top: 15px;
+    margin-top: 0px;
+  }
+
+  /* line 630, ../sass/style.scss */
+  .view-general-information .views-row .views-row-title a, .view-drifts-information .views-row .views-row-title a, .view-afdelings-information .views-row .views-row-title a {
+    color: #e1f4f5;
+    text-decoration: none;
+    padding-left: 10px;
+  }
+
+  /* line 635, ../sass/style.scss */
+  .view-general-information .views-row, .view-drifts-information .views-row, .view-afdelings-information .views-row {
+    background: white;
+    padding-bottom: 20px;
+  }
+
+  /* line 639, ../sass/style.scss */
+  .view-general-information .views-row, .view-drifts-information .views-row, .view-afdelings-information .views-row, .pane-simplenews-35, .pane-simplenews-36, .pane-simplenews-37 {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+  }
+
+  /* line 644, ../sass/style.scss */
+  .pane-simplenews-35 .pane-title, .pane-simplenews-36 .pane-title, .pane-simplenews-37 .pane-title {
+    margin-left: 0px;
+    color: #e1f4f5;
+    height: 60px;
+    background: #54a0a5;
+    border-bottom: 8px solid #87d3d8;
+    padding-top: 15px;
+    padding-left: 10px;
+  }
+
+  /* line 653, ../sass/style.scss */
+  .view-files, .pane-simplenews-35, .pane-simplenews-36, .pane-simplenews-37 {
+    background: white;
+  }
+
+  /* line 656, ../sass/style.scss */
+  .pane-simplenews-35 .pane-content, .pane-simplenews-36 .pane-content, .pane-simplenews-37 .pane-content {
+    padding: 15px;
+  }
+
+  /* line 659, ../sass/style.scss */
+  .view-general-information .views-field .col-md-12, .view-drifts-information .views-field .col-md-12, .view-afdelings-information .views-field .col-md-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  /* line 663, ../sass/style.scss */
+  .view-general-information .views-image, .view-drifts-information .views-image, .view-afdelings-information .views-image {
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  /* line 668, ../sass/style.scss */
+  .view-general-information .views-image-body, .view-drifts-information .views-image-body, .view-afdelings-information .views-image-body {
+    min-height: 100px;
+  }
+
+  /* line 671, ../sass/style.scss */
+  .view-files h2 {
+    margin-top: 0px;
+    font-size: 2em;
+  }
+
+  /* line 675, ../sass/style.scss */
+  .view-files .views-row {
+    padding: 15px;
+  }
+
+  /* line 678, ../sass/style.scss */
+  .view-files .view-content {
+    padding-bottom: 0px;
+  }
+
+  /* line 681, ../sass/style.scss */
+  .view-files .views-row-even {
+    background: #EFF9FA;
+  }
+
+  /* line 684, ../sass/style.scss */
+  .view-vagtplan {
+    margin-top: 40px;
+  }
+
+  /* line 688, ../sass/style.scss */
+  .ansat-info {
+    background-color: #54a0a5;
+    padding: 5px;
+    padding-left: 10px;
+    padding-top: 0px;
+  }
+
+  /* line 694, ../sass/style.scss */
+  .ansat-info a {
+    color: #2a5052;
+  }
+
+  /* line 697, ../sass/style.scss */
+  .ansat-img {
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    float: none;
+  }
+
+  /* line 702, ../sass/style.scss */
+  .ansat-img img {
+    border-radius: 50%;
+    border: 4px solid #5eb4ba;
+    display: inline;
+  }
+
+  /* line 707, ../sass/style.scss */
+  .ansat-fornavn {
+    color: #69c8cf;
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+    display: block;
+  }
+
+  /* line 714, ../sass/style.scss */
+  .pane-vagtplan .date-nav {
+    background: #54a0a5 !important;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  /* line 719, ../sass/style.scss */
+  .pane-vagtplan .date-nav h3 a {
+    color: #e1f4f5 !important;
+  }
+
+  /* line 722, ../sass/style.scss */
+  .pane-vagtplan .view-vagtplan {
+    background-color: white;
+  }
+
+  /* line 725, ../sass/style.scss */
+  .mini {
+    background-color: white;
+    /*kaldender baggrund*/
+  }
+
+  /* line 729, ../sass/style.scss */
+  .mini-day-off {
+    color: #346467;
+    /* kalender tekst */
+  }
+
+  /* line 733, ../sass/style.scss */
+  .mini-day-on {
+    background-color: #e1f4f5;
+  }
+
+  /* line 736, ../sass/style.scss */
+  .mini-day-on, .mini-day-off {
+    text-align: center;
+  }
+
+  /* line 739, ../sass/style.scss */
+  .mini a {
+    color: #346467;
+    text-decoration: none;
+  }
+
+  /* line 743, ../sass/style.scss */
+  .calendar-calendar .month-view .mini .days {
+    background-color: white;
+    color: #54a0a5;
+    border: 0px solid #54a0a5;
+  }
+
+  /* line 748, ../sass/style.scss */
+  .pane-vagtplan .view .date-heading h3 {
+    padding-top: 10px;
+  }
+
+  /* line 752, ../sass/style.scss */
+  .pager {
+    margin-bottom: 0px;
+  }
+
+  /* line 755, ../sass/style.scss */
+  .pane-vagtplan .pager .date-prev a, .pane-vagtplan .pager .date-next a {
+    font-size: 1.8em;
+    color: #e1f4f5;
+  }
+
+  /* line 759, ../sass/style.scss */
+  .pane-vagtplan .pager .date-next a {
+    background-color: transparent !important;
+    /* float: left; */
+    position: absolute;
+    top: 9px;
+    right: 10px;
+    width: 20px;
+    height: 28px;
+    border: none;
+  }
+}
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  /* line 776, ../sass/style.scss */
+  .user-profile .group-header .field-item img {
+    width: 35% !important;
+    height: 35% !important;
+  }
+
+  /* line 780, ../sass/style.scss */
+  .logo {
+    display: block;
+  }
+
+  /* line 783, ../sass/style.scss */
+  .navbar > .container .navbar-brand {
+    margin-left: -15px;
+    position: relative;
+    font-size: 1.5em;
+    top: 8px;
+    color: #e1f4f5;
+  }
+
+  /* line 791, ../sass/style.scss */
+  .tb-megamenu-item .active-trail .active, .tb-megamenu-item .active-trail {
+    background-color: #69c8cf !important;
+  }
+
+  /* line 794, ../sass/style.scss */
+  .nav .open > a, .nav .open > a:hover {
+    border-right: 2px solid #78cdd3;
+  }
+
+  /* line 797, ../sass/style.scss */
+  .tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+    border-bottom: 5px solid #87d3d8 !important;
+    border-right: 2px solid #78cdd3;
+  }
+
+  /* line 801, ../sass/style.scss */
+  .tb-megamenu .nav-collapse .nav > li > a {
+    background-color: #54a0a5;
+  }
+
+  /* line 804, ../sass/style.scss */
+  #navbar {
+    background-color: #54a0a5;
+    height: 70px;
+    border-radius: 0px;
+  }
+
+  /* line 809, ../sass/style.scss */
+  #navbar ul {
+    border-left: 2px solid #87d3d8;
+  }
+
+  /* line 812, ../sass/style.scss */
+  #navbar ul li ul li a {
+    border-left: none !important;
+  }
+
+  /* line 815, ../sass/style.scss */
+  .tb-megamenu .nav-collapse.collapse {
+    display: block !important;
+  }
+
+  /* line 818, ../sass/style.scss */
+  .tb-megamenu {
+    background: none !important;
+    float: left;
+  }
+
+  /* line 822, ../sass/style.scss */
+  #navbar ul li {
+    color: white;
+  }
+
+  /* line 825, ../sass/style.scss */
+  #navbar .navbar-header {
+    float: left;
+  }
+
+  /* line 828, ../sass/style.scss */
+  #navbar .navbar-collapse {
+    float: right;
+  }
+
+  /* line 831, ../sass/style.scss */
+  .tb-megamenu .nav > li > a {
+    border-right: 2px solid #78cdd3;
+    font-size: 1.4em;
+    font-weight: lighter;
+    /*padding: 15px 0px 0px 0px;*/
+    height: 68px;
+    width: 130px;
+  }
+
+  /* line 840, ../sass/style.scss */
+  .tb-megamenu .dropdown-menu li > a {
+    border-top: none;
+  }
+
+  /* line 843, ../sass/style.scss */
+  .tb-megamenu .dropdown-menu li > a:hover {
+    background-color: #87d3d8;
+  }
+
+  /* line 846, ../sass/style.scss */
+  .tb-megamenu .nav li.dropdown.open > .dropdown-toggle {
+    background-color: transparent !important;
+    color: #e1f4f5 !important;
+  }
+
+  /* line 850, ../sass/style.scss */
+  .fa {
+    font-size: .9em;
+    display: inline !important;
+  }
+
+  /* OBS */
+  /* line 856, ../sass/style.scss */
+  .view-home {
+    background-color: white;
+  }
+
+  /* line 859, ../sass/style.scss */
+  .pane-allnews {
+    background-color: #1f3c3e;
+  }
+
+  /* line 862, ../sass/style.scss */
+  .pane-title {
+    color: white;
+    margin-left: 10px;
+  }
+
+  /* line 866, ../sass/style.scss */
+  .views-row p {
+    padding: 0px 10px 0px 10px;
+  }
+
+  /* line 869, ../sass/style.scss */
+  .view-content {
+    padding-bottom: 15px;
+  }
+
+  /* panel views all news */
+  /* line 874, ../sass/style.scss */
+  .pane-allnews .views-row-even {
+    background: rgba(105, 205, 208, 0.1);
+  }
+
+  /* line 877, ../sass/style.scss */
+  .pane-allnews .views-row p, .pane-allnews .overinfo {
+    padding-top: 1px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+
+  /* line 882, ../sass/style.scss */
+  .pane-allnews .overinfo h3 {
+    margin-bottom: 10px;
+  }
+
+  /* Panel Files */
+  /* line 887, ../sass/style.scss */
+  .panel-panel .page-files {
+    background-color: #54a0a5;
+  }
+
+  /* line 891, ../sass/style.scss */
+  .panel-panel .page-files .pane-title {
+    height: 50px;
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  /* line 896, ../sass/style.scss */
+  .panel-panel .page-files .view-content {
+    background-color: white;
+    border-top: 10px solid #69c8cf;
+  }
+
+  /* line 900, ../sass/style.scss */
+  .pane-files .views-field-body .field-content {
+    display: none !important;
+  }
+
+  /* line 903, ../sass/style.scss */
+  .pane-files .author {
+    display: inline;
+  }
+
+  /* line 906, ../sass/style.scss */
+  .panel-pane.pane-views.pane-files.page-files {
+    margin-top: 30px;
+  }
+
+  /* Afdelingen */
+  /* line 911, ../sass/style.scss */
+  .view-afdelingen .view-content .views-row {
+    background-color: white;
+    padding: 5px 0px 0px 0px;
+    margin: 28px;
+    width: 20%;
+    height: auto;
+  }
+
+  /* line 918, ../sass/style.scss */
+  .ansat-info {
+    background-color: #54a0a5;
+    padding: 5px;
+    padding-left: 10px;
+    color: #e1f4f5;
+  }
+
+  /* line 924, ../sass/style.scss */
+  .ansat-info a {
+    color: #e1f4f5;
+  }
+
+  /* line 927, ../sass/style.scss */
+  .ansat-img {
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    float: none;
+  }
+
+  /* line 932, ../sass/style.scss */
+  .ansat-img img {
+    border-radius: 50%;
+    border: 4px solid #5eb4ba;
+    display: inline;
+  }
+
+  /* line 937, ../sass/style.scss */
+  .ansat-fornavn {
+    color: #69c8cf;
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+    display: block;
+  }
+
+  /* line 944, ../sass/style.scss */
+  .pane-vagtplan .date-nav {
+    background: #54a0a5 !important;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  /* line 949, ../sass/style.scss */
+  .pane-vagtplan .date-nav h3 a {
+    color: #e1f4f5 !important;
+  }
+
+  /* line 952, ../sass/style.scss */
+  .pane-vagtplan .view-vagtplan {
+    background-color: white;
+  }
+
+  /* line 955, ../sass/style.scss */
+  .pane-vagtplan {
+    margin-top: 40px;
+  }
+
+  /* line 958, ../sass/style.scss */
+  .mini {
+    background-color: white;
+    /*kaldender baggrund*/
+  }
+
+  /* line 962, ../sass/style.scss */
+  .mini-day-off {
+    color: #346467;
+    /* kalender tekst */
+  }
+
+  /* line 966, ../sass/style.scss */
+  .mini-day-on {
+    background-color: #e1f4f5;
+  }
+
+  /* line 969, ../sass/style.scss */
+  .mini-day-on, .mini-day-off {
+    text-align: center;
+  }
+
+  /* line 972, ../sass/style.scss */
+  .mini a {
+    color: #346467;
+    text-decoration: none;
+  }
+
+  /* line 976, ../sass/style.scss */
+  .calendar-calendar .month-view .mini .days {
+    background-color: white;
+    color: #54a0a5;
+    border: 0px solid #54a0a5;
+  }
+
+  /* line 981, ../sass/style.scss */
+  .pane-vagtplan .view .date-heading h3 {
+    padding-top: 10px;
+  }
+
+  /* line 984, ../sass/style.scss */
+  .main-container .row > section {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  /* line 989, ../sass/style.scss */
+  .pager {
+    margin-bottom: 0px;
+  }
+
+  /* line 992, ../sass/style.scss */
+  .pane-vagtplan .pager .date-prev a, .pane-vagtplan .pager .date-next a {
+    font-size: 1.8em;
+    color: #e1f4f5;
+  }
+
+  /* line 996, ../sass/style.scss */
+  .pane-vagtplan .pager .date-next a {
+    background-color: transparent !important;
+    /* float: left; */
+    position: absolute;
+    top: 9px;
+    right: 10px;
+    width: 20px;
+    height: 28px;
+    border: none;
+  }
+
+  /* line 1010, ../sass/style.scss */
+  .view-general-information .views-row .views-row-title, .view-drifts-information .views-row .views-row-title, .view-afdelings-information .views-row .views-row-title {
+    background: #54a0a5;
+    height: 60px;
+    border-bottom: 8px solid #87d3d8;
+    padding-top: 15px;
+    margin-top: 0px;
+  }
+
+  /* line 1017, ../sass/style.scss */
+  .view-general-information .views-row .views-row-title a, .view-drifts-information .views-row .views-row-title a, .view-afdelings-information .views-row .views-row-title a {
+    color: #e1f4f5;
+    text-decoration: none;
+    padding-left: 10px;
+  }
+
+  /* line 1022, ../sass/style.scss */
+  .view-general-information .views-row, .view-drifts-information .views-row, .view-afdelings-information .views-row {
+    background: white;
+    padding-bottom: 20px;
+  }
+
+  /* line 1026, ../sass/style.scss */
+  .view-general-information .views-row, .view-drifts-information .views-row, .view-afdelings-information .views-row, .pane-simplenews-35, .pane-simplenews-36, .pane-simplenews-37 {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+  }
+
+  /* line 1031, ../sass/style.scss */
+  .pane-simplenews-35 .pane-title, .pane-simplenews-36 .pane-title, .pane-simplenews-37 .pane-title {
+    margin-left: 0px;
+    color: #e1f4f5;
+    height: 60px;
+    background: #54a0a5;
+    border-bottom: 8px solid #87d3d8;
+    padding-top: 15px;
+    padding-left: 10px;
+  }
+
+  /* line 1040, ../sass/style.scss */
+  .view-files, .pane-simplenews-35, .pane-simplenews-36, .pane-simplenews-37 {
+    background: white;
+  }
+
+  /* line 1043, ../sass/style.scss */
+  .pane-simplenews-35 .pane-content, .pane-simplenews-36 .pane-content, .pane-simplenews-37 .pane-content {
+    padding: 15px;
+  }
+
+  /* line 1046, ../sass/style.scss */
+  .view-general-information .views-field .col-md-12, .view-drifts-information .views-field .col-md-12, .view-afdelings-information .views-field .col-md-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  /* line 1050, ../sass/style.scss */
+  .view-general-information .views-image, .view-drifts-information .views-image, .view-afdelings-information .views-image {
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  /* line 1055, ../sass/style.scss */
+  .view-general-information .views-image-body, .view-drifts-information .views-image-body, .view-afdelings-information .views-image-body {
+    min-height: 100px;
+  }
+
+  /* line 1058, ../sass/style.scss */
+  .view-files h2 {
+    margin-top: 0px;
+    font-size: 2em;
+  }
+
+  /* line 1062, ../sass/style.scss */
+  .view-files .views-row {
+    padding: 15px;
+  }
+
+  /* line 1065, ../sass/style.scss */
+  .view-files .view-content {
+    padding-bottom: 0px;
+  }
+
+  /* line 1068, ../sass/style.scss */
+  .view-vagtplan {
+    margin-top: 40px;
+  }
+
+  /* line 1073, ../sass/style.scss */
+  .page-header {
+    background: #54a0a5;
+    height: 70px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    border-bottom: 8px solid #87d3d8;
+    padding: 20px;
+    color: #e1f4f5;
+  }
+
+  /* line 1082, ../sass/style.scss */
+  .node .content {
+    background: white;
+  }
+
+  /* line 1085, ../sass/style.scss */
+  .node .field-name-body {
+    padding: 0px 20px 20px 20px;
+    min-height: 245px;
+  }
+
+  /* line 1089, ../sass/style.scss */
+  .node .field-name-field-update, .node .field-name-field-news, .node .field-name-field-simplenews-term, .node .field-name-field-news-image {
+    margin-left: 20px;
+  }
+
+  /* line 1092, ../sass/style.scss */
+  .node .field-name-field-simplenews-term {
+    display: inline-block;
+    float: left;
+    background-color: #69c8cf;
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 0px 3px 0px 3px;
+  }
+
+  /* line 1101, ../sass/style.scss */
+  .node .field-name-field-simplenews-term a {
+    color: white;
+  }
+
+  /* line 1107, ../sass/style.scss */
+  .node .field-name-field-news-image {
+    float: left;
+    padding: 5px 5px 5px 0px;
+  }
+
+  /* line 1111, ../sass/style.scss */
+  .submitted {
+    margin-bottom: 1em;
+    font-style: italic;
+    font-weight: 400;
+    color: #777;
+    background: white;
+    margin: 0px;
+  }
+
+  /* line 1120, ../sass/style.scss */
+  #block-logintoboggan-logintoboggan-logged-in {
+    background-color: white;
+    width: auto;
+    text-align: right;
+    float: right;
+    padding: 4px;
+    border: 3px solid #69c8cf;
+    margin-bottom: -34px;
+    margin-top: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: relative;
+    z-index: 11;
+  }
+
+  /* line 1134, ../sass/style.scss */
+  .form-item-ugedage, .form-item-maaned {
+    margin-top: 10px;
+    width: 49%;
+    float: left;
+  }
+
+  /* line 1139, ../sass/style.scss */
+  .form-item-maaned {
+    float: right;
+  }
+
+  /* line 1142, ../sass/style.scss */
+  .footer {
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+
+  /* line 1147, ../sass/style.scss */
+  .field-name-field-sub-page .field-item {
+    margin: 10px;
+  }
+
+  /* line 1150, ../sass/style.scss */
+  .field-name-field-sub-page .field-item a {
+    text-decoration: none;
+    color: #54a0a5;
+    font-weight: 600;
+  }
+
+  /* line 1155, ../sass/style.scss */
+  .field-name-field-sub-page .field-item:hover {
+    background-color: #69c8cf;
+    color: white;
+  }
+
+  /* line 1160, ../sass/style.scss */
+  .user-profile {
+    background: white;
+  }
+
+  /* line 1163, ../sass/style.scss */
+  .field-name-field-user-fornavn {
+    float: left;
+    margin-right: 5px;
+    font-weight: 600;
+  }
+
+  /* line 1168, ../sass/style.scss */
+  .field-name-field-user-efternavn {
+    margin-right: 5px;
+    font-weight: 600;
+  }
+
+  /* line 1172, ../sass/style.scss */
+  .page-user .page-header, .user-profile, .nav-tabs {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* line 1177, ../sass/style.scss */
+  .group-header {
+    height: 330px;
+  }
+
+  /* line 1180, ../sass/style.scss */
+  .group-header .field-name-field-user-fornavn {
+    display: block;
+    float: left;
+    margin-left: auto;
+    margin-right: 10px;
+    text-align: center;
+  }
+
+  /* line 1187, ../sass/style.scss */
+  .group-left dl, .group-footer h3 {
+    margin: 0px;
+  }
+
+  /* line 1190, ../sass/style.scss */
+  .group-header, .group-left, .group-footer {
+    padding: 10px;
+  }
+
+  /* line 1194, ../sass/style.scss */
+  #block-user-login {
+    background: white;
+    padding-bottom: 10px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  /* line 1202, ../sass/style.scss */
+  #block-user-login .block-title {
+    background: #54a0a5;
+    border-bottom: 5px solid #87d3d8;
+    padding-left: 25px;
+  }
+
+  /* line 1207, ../sass/style.scss */
+  #block-user-login h2 {
+    color: #e1f4f5;
+    margin: 0px;
+    height: 70px;
+    line-height: 70px;
+  }
+
+  /* line 1213, ../sass/style.scss */
+  #user-login-form {
+    padding: 30px;
+  }
+
+  /* line 1217, ../sass/style.scss */
+  .page-calendar .pager .date-prev, .page-calendar .pager .date-next {
+    color: #e1f4f5;
+    line-height: 70px;
+  }
+
+  /* line 1221, ../sass/style.scss */
+  .page-calendar .date-nav-wrapper {
+    background-color: #54a0a5;
+    border-bottom: 10px solid #69c8cf !important;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    height: 70px;
+  }
+
+  /* line 1228, ../sass/style.scss */
+  .page-user .pagination {
+    margin-left: 25%;
+  }
+
+  /* line 1231, ../sass/style.scss */
+  .page-user .region-content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background: white;
+  }
+
+  /* line 1238, ../sass/style.scss */
+  .page-user .page-header {
+    width: 50%;
+  }
+
+  /* line 1241, ../sass/style.scss */
+  ul.tabs--secondary.pagination.pagination-sm {
+    display: inline-block;
+    background: white;
+    width: 50%;
+  }
+
+  /* line 1246, ../sass/style.scss */
+  .user-profile {
+    width: 100%;
+  }
+}

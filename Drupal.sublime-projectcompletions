@@ -1,0 +1,4 @@
+BootstrapOcita_preprocess_html	BootstrapOcita_preprocess_html(${1:&\$vars})
+BootstrapOcita_css_alter	BootstrapOcita_css_alter(${1:&\$css})
+BootstrapOcita_menu_link	BootstrapOcita_menu_link(${1:array \$variables})
+BootstrapOcita_menu_link	BootstrapOcita_menu_link(${1:array \$variables})

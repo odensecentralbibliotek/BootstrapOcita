@@ -1,0 +1,15 @@
+.pager li.date-prev {
+   background: none !important;
+   left:0px !important;
+   position:absolute !important;
+   right: 0px !important;
+   margin-right: 90%;
+   width: 100px;
+}
+.pager li.date-next {
+   background: none !important;
+   right: 10px !important;
+}
+.date-nav ul.pager {
+    margin:0px;
+}

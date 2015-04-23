@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/var/aegir/platforms/drupal-7.34"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/aegir/platforms/drupal-7.34/sites/all/modules/examples"
+		}
+	],
+	"settings":
+	{
+		"xdebug":
+		{
+			"port": 9001,
+			"url": "http://devel.ocita.fynbib.dk"
+		}
+	}
+}

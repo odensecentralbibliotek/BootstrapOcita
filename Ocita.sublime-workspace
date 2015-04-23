@@ -1,0 +1,2574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"main",
+				"main-lighter-color"
+			],
+			[
+				"group",
+				"group-footer"
+			],
+			[
+				"post",
+				"post-light-color"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"main-l",
+				"main-lighter-color"
+			],
+			[
+				"group-",
+				"group-footer"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"main-color",
+				"main-lighter-color"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"pane-",
+				"pane-vagtplan"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"main-",
+				"main-lighter-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"field-name-field-",
+				"field-name-field-sub-page"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"form",
+				"form_state"
+			],
+			[
+				"sele",
+				"$selected〔variable〕"
+			],
+			[
+				"utf8_",
+				"utf8_encode"
+			],
+			[
+				"stat",
+				"statindhold"
+			],
+			[
+				"ad",
+				"addcslashes"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"value_",
+				"value_dropdown_first"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"file_read",
+				"file_read_ajax_statestik"
+			],
+			[
+				"value_drop",
+				"value_dropdown_second"
+			],
+			[
+				"drop",
+				"dropdown_second"
+			],
+			[
+				"dropdown_",
+				"dropdown_second"
+			],
+			[
+				"file_re",
+				"file_read_block_view"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"view-",
+				"view-general-information"
+			],
+			[
+				"views",
+				"view-afdelings-information"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"po",
+				"post-title-bgcolor"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"col",
+				"col-md-12"
+			],
+			[
+				"vire",
+				"view-afdelings-information"
+			],
+			[
+				"view",
+				"view-afdelings-information"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"m",
+				"main-lighter-color"
+			],
+			[
+				"pos",
+				"post-title-bgcolor"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"ansat",
+				"ansat-info"
+			],
+			[
+				"ansa",
+				"ansat-info-links"
+			],
+			[
+				"post-",
+				"post-title-bgcolor"
+			],
+			[
+				"backgru",
+				"background-color"
+			],
+			[
+				"navbu",
+				"navbuttonwidth768"
+			],
+			[
+				"navbuttonw",
+				"navbuttonwidth992"
+			],
+			[
+				"nav",
+				"navbuttonwidth1200"
+			],
+			[
+				"navh",
+				"navheight"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"navhe",
+				"navheight979"
+			],
+			[
+				"na",
+				"navheight789"
+			],
+			[
+				"border-left",
+				"border-left-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backgrond",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"subs",
+				"substr_replace($output"
+			],
+			[
+				"print_R",
+				"print_r($element"
+			],
+			[
+				"class",
+				"clasS_array"
+			],
+			[
+				"cals",
+				"$class_array〔variable〕"
+			],
+			[
+				"cl",
+				"$class_array〔variable〕"
+			],
+			[
+				"sub",
+				"substr($class"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"print_r",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 33022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/amer/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 189,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "BootstrapOcita.info",
+			"settings":
+			{
+				"buffer_size": 2003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/calendar_multiday.css",
+			"settings":
+			{
+				"buffer_size": 21695,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/jquery.smartmenus.bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 3132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 53 files for \"visibility: hidden\"\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/bootstrap.css:\n 2389  .tb-megamenu .hidden {\n 2390    display: none;\n 2391:   visibility: hidden;\n 2392  }\n 2393  .tb-megamenu .visible-phone {\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/default.css:\n 1337  .tb-megamenu .hidden {\n 1338    display: none !important;\n 1339:   visibility: hidden;\n 1340  }\n 1341  \n ....\n 1473      -ms-transition: all 400ms;\n 1474      -o-transition: all 400ms;\n 1475:     -webkit-backface-visibility: hidden;\n 1476:     -moz-backface-visibility: hidden;\n 1477:     -o-backface-visibility: hidden;\n 1478:     backface-visibility: hidden;\n 1479      opacity: 0;\n 1480    }\n ....\n 1532      -ms-transition: all 400ms;\n 1533      -o-transition: all 400ms;\n 1534:     -webkit-backface-visibility: hidden;\n 1535:     -moz-backface-visibility: hidden;\n 1536:     -o-backface-visibility: hidden;\n 1537:     backface-visibility: hidden;\n 1538      margin-top: -100%;\n 1539    }\n\n10 matches across 2 files\n\n\nSearching 53 files for \"collapsible\"\n\n0 matches across 0 files\n\n\nSearching 53 files for \"collapse\"\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/backend.css:\n  373      border-top: 1px solid #eeeeee;\n  374    }\n  375: .tb-megamenu .hidden-collapse,\n  376  .tb-megamenu .always-show .caret,\n  377: .tb-megamenu .sub-hidden-collapse > .nav-child,\n  378: .tb-megamenu .sub-hidden-collapse .caret,\n  379: .tb-megamenu .sub-hidden-collapse > a:after,\n  380  .tb-megamenu .always-show .dropdown-submenu > a:after {\n  381      display: none !important;\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/base.css:\n  368  	opacity: 1;\n  369  }\n  370: .tb-megamenu .collapse {\n  371  	position: relative;\n  372  	height: 0;\n  ...\n  377  	transition: height .35s ease;\n  378  }\n  379: .tb-megamenu .collapse.in {\n  380  	height: auto;\n  381  }\n  ...\n  918  .tb-megamenu .header .row-fluid .span3,\n  919  .tb-megamenu .header .row-fluid .span7,\n  920: .tb-megamenu .subhead-collapse {\n  921  		display: none;\n  922  	}\n  ...\n  956  		margin-bottom: 3px;\n  957  	}\n  958: .tb-megamenu .nav-collapse .nav .nav-header {\n  959  		color: #fff;\n  960  	}\n  961: .tb-megamenu .nav-collapse.collapse.in {\n  962  		height: auto !important;\n  963  	}\n  964: .tb-megamenu .nav-collapse .nav,\n  965: .tb-megamenu .navbar .nav-collapse .nav.pull-right {\n  966  		margin: 0;\n  967  	}\n  968: .tb-megamenu .nav-collapse .dropdown-menu {\n  969  		margin: 0;\n  970  	}\n  971: .tb-megamenu .nav-collapse .nav li a {\n  972  		margin-bottom: 0;\n  973  		border-top: 1px solid #d9d9d9;		\n  974  	}\n  975: .tb-megamenu .nav-collapse .nav li ul li ul.dropdown-menu,\n  976: .tb-megamenu .nav-collapse .nav li ul li:hover ul.dropdown-menu,\n  977: .tb-megamenu .nav-collapse .caret {\n  978  		display: none !important;\n  979  	}\n  980: .tb-megamenu .nav-collapse .nav > li > a,\n  981: .tb-megamenu .nav-collapse .dropdown-menu a {			\n  982  		-webkit-border-radius: 0;\n  983  		-moz-border-radius: 0;\n  984  		border-radius: 0;\n  985  	}\n  986: .tb-megamenu .navbar .nav-collapse .nav > li > .dropdown-menu::before,\n  987: .tb-megamenu .navbar .nav-collapse .nav > li > .dropdown-menu::after,\n  988: .tb-megamenu .navbar .nav-collapse .dropdown-submenu > a::after {\n  989  		display: none;\n  990  	}\n  991: .tb-megamenu .nav-collapse .dropdown-menu li + li a {\n  992  		margin-bottom: 0;\n  993  	}\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/bootstrap.css:\n 1685    width: auto;\n 1686  }\n 1687: .tb-megamenu .nav-collapse.collapse {\n 1688    height: auto;\n 1689    overflow: visible;\n ....\n 2540  }\n 2541  @media (max-width: 480px) {\n 2542: .tb-megamenu .nav-collapse {\n 2543      -webkit-transform: translate3d(0, 0, 0);\n 2544    }\n ....\n 3030      margin: 0 0 0 -5px;\n 3031    }\n 3032: .tb-megamenu .nav-collapse {\n 3033      clear: both;\n 3034    }\n 3035: .tb-megamenu .nav-collapse .nav {\n 3036      float: none;\n 3037      margin: 0 0 10px;\n 3038    }\n 3039: .tb-megamenu .nav-collapse .nav > li {\n 3040      float: none;\n 3041    }\n 3042: .tb-megamenu .nav-collapse .nav > li > a {\n 3043      margin-bottom: 2px;\n 3044    }\n 3045: .tb-megamenu .nav-collapse .nav > .divider-vertical {\n 3046      display: none;\n 3047    }\n 3048: .tb-megamenu .nav-collapse .nav .nav-header {\n 3049      color: #777777;\n 3050      text-shadow: none;\n 3051    }\n 3052: .tb-megamenu .nav-collapse .nav > li > a,\n 3053: .tb-megamenu .nav-collapse .dropdown-menu a {\n 3054      padding: 9px 15px;\n 3055      font-weight: bold;\n ....\n 3059      border-radius: 3px;\n 3060    }\n 3061: .tb-megamenu .nav-collapse .btn {\n 3062      padding: 4px 10px 4px;\n 3063      font-weight: normal;\n ....\n 3066      border-radius: 4px;\n 3067    }\n 3068: .tb-megamenu .nav-collapse .dropdown-menu li + li a {\n 3069      margin-bottom: 2px;\n 3070    }\n 3071: .tb-megamenu .nav-collapse .nav > li > a:hover,\n 3072: .tb-megamenu .nav-collapse .nav > li > a:focus,\n 3073: .tb-megamenu .nav-collapse .dropdown-menu a:hover,\n 3074: .tb-megamenu .nav-collapse .dropdown-menu a:focus {\n 3075      background-color: #f2f2f2;\n 3076    }\n 3077: .tb-megamenu .navbar-inverse .nav-collapse .nav > li > a,\n 3078: .tb-megamenu .navbar-inverse .nav-collapse .dropdown-menu a {\n 3079      color: #999999;\n 3080    }\n 3081: .tb-megamenu .navbar-inverse .nav-collapse .nav > li > a:hover,\n 3082: .tb-megamenu .navbar-inverse .nav-collapse .nav > li > a:focus,\n 3083: .tb-megamenu .navbar-inverse .nav-collapse .dropdown-menu a:hover,\n 3084: .tb-megamenu .navbar-inverse .nav-collapse .dropdown-menu a:focus {\n 3085      background-color: #111111;\n 3086    }\n 3087: .tb-megamenu .nav-collapse.in .btn-group {\n 3088      margin-top: 5px;\n 3089      padding: 0;\n 3090    }\n 3091: .tb-megamenu .nav-collapse .dropdown-menu {\n 3092      position: static;\n 3093      top: auto;\n ....\n 3107      box-shadow: none;\n 3108    }\n 3109: .tb-megamenu .nav-collapse .open > .dropdown-menu {\n 3110      display: block;\n 3111    }\n 3112: .tb-megamenu .nav-collapse .dropdown-menu:before,\n 3113: .tb-megamenu .nav-collapse .dropdown-menu:after {\n 3114      display: none;\n 3115    }\n 3116: .tb-megamenu .nav-collapse .dropdown-menu .divider {\n 3117      display: none;\n 3118    }\n 3119: .tb-megamenu .nav-collapse .nav > li > .dropdown-menu:before,\n 3120: .tb-megamenu .nav-collapse .nav > li > .dropdown-menu:after {\n 3121      display: none;\n 3122    }\n 3123: .tb-megamenu .nav-collapse .navbar-form,\n 3124: .tb-megamenu .nav-collapse .navbar-search {\n 3125      float: none;\n 3126      padding: 10px 15px;\n ....\n 3132      box-shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);\n 3133    }\n 3134: .tb-megamenu .navbar-inverse .nav-collapse .navbar-form,\n 3135: .tb-megamenu .navbar-inverse .nav-collapse .navbar-search {\n 3136      border-top-color: #111111;\n 3137      border-bottom-color: #111111;\n 3138    }\n 3139: .tb-megamenu .navbar .nav-collapse .nav.pull-right {\n 3140      float: none;\n 3141      margin-left: 0;\n 3142    }\n 3143: .tb-megamenu .nav-collapse,\n 3144: .tb-megamenu .nav-collapse.collapse {\n 3145      overflow: hidden;\n 3146      height: 0;\n ....\n 3155  }\n 3156  @media (min-width: 980px) {\n 3157: .tb-megamenu .nav-collapse.collapse {\n 3158      height: auto !important;\n 3159      overflow: visible !important;\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/compatibility.css:\n   18  }\n   19  @media (max-width: 979px) {\n   20:   .tb-megamenu .nav-collapse .dropdown-menu .views-field-field-image a{\n   21      border-top:0 none;\n   22    }\n   ..\n   24      border:0 none;\n   25    }\n   26:   .tb-megamenu .nav-collapse, .tb-megamenu .nav-collapse.collapse{\n   27      z-index: 999;\n   28    }\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/default.css:\n 1345      display: block !important;\n 1346    }\n 1347: .tb-megamenu .navbar-collapse-fixed-top,\n 1348: .tb-megamenu .navbar-collapse-fixed-bottom {\n 1349      position: fixed;\n 1350      left: 0;\n ....\n 1353      z-index: 1000;\n 1354    }\n 1355: .tb-megamenu .navbar-collapse-fixed-top .nav-collapse.in,\n 1356: .tb-megamenu .navbar-collapse-fixed-bottom .nav-collapse.in {\n 1357      position: fixed;\n 1358      width: 100%;\n ....\n 1361      bottom: 0;\n 1362    }\n 1363: .tb-megamenu .navbar-collapse-fixed-top .nav-collapse.in > *,\n 1364: .tb-megamenu .navbar-collapse-fixed-bottom .nav-collapse.in > * {\n 1365      padding-bottom: 50px;\n 1366    }\n 1367: .tb-megamenu .navbar-collapse-fixed-bottom {\n 1368      bottom: 0;\n 1369      top: auto;\n 1370    }\n 1371: .tb-megamenu .navbar-collapse-fixed-bottom .nav-collapse.in {\n 1372      top: 0;\n 1373      bottom: 40px;\n ....\n 1386      cursor: pointer;\n 1387    }\n 1388: .tb-megamenu .nav-collapse {\n 1389      background: #000;\n 1390      margin-top: 10px;\n ....\n 1394  	z-index: 999;\n 1395    }\n 1396: .tb-megamenu .nav-collapse .nav {\n 1397      margin: 0;\n 1398    }\n 1399: .tb-megamenu .nav-collapse .nav > li > a {\n 1400      font-size: 15px;\n 1401      margin-bottom: 0;\n 1402    }\n 1403: .tb-megamenu .nav-collapse .nav > li > a,\n 1404: .tb-megamenu .nav-collapse .dropdown-menu a {\n 1405      border-bottom: 1px solid #222;\n 1406  	border-right: none;	\n ....\n 1411      border-radius: 0;\n 1412    }\n 1413: .tb-megamenu .nav-collapse .dropdown-menu li + li a {\n 1414      margin-bottom: 0;\n 1415    }\n 1416: .tb-megamenu .nav-collapse .nav > li > a:hover,\n 1417: .tb-megamenu .nav-collapse .nav > li > a:focus {\n 1418      background-color: #fff;\n 1419      background-image: none;\n ....\n 1421  	color: #e54e4b;\n 1422    }\n 1423: .tb-megamenu .nav-collapse .nav > li.active > a:hover,\n 1424: .tb-megamenu .nav-collapse .nav > li.active > a:focus {\n 1425    background-color: #e54e4b;\n 1426  }\n 1427: .tb-megamenu .nav-collapse .dropdown-menu a {\n 1428      border-top: 1px solid #222;\n 1429      border-bottom: 0;\n ....\n 1431      padding: 10px 20px;\n 1432    }\n 1433: .tb-megamenu .nav-collapse .dropdown-menu a:hover,\n 1434: .tb-megamenu .nav-collapse .dropdown-menu a:focus {\n 1435      background-color: inherit;\n 1436      background-image: none;\n 1437      filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);\n 1438    }\n 1439: .tb-megamenu .nav-collapse .dropdown-menu {\n 1440      margin: 0;\n 1441      padding: 0;\n ....\n 1450  	width: 100% !important;\n 1451    }\n 1452: .tb-megamenu.navbar-collapse-fixed-top {\n 1453      margin-left: 0;\n 1454      margin-right: 0;\n ....\n 1575      border-top: 1px solid #222;\n 1576    }\n 1577:   .tb-megamenu .hidden-collapse,\n 1578    .tb-megamenu .always-show  .caret,\n 1579:   .tb-megamenu .sub-hidden-collapse > .nav-child,\n 1580:   .tb-megamenu .sub-hidden-collapse .caret,\n 1581:   .tb-megamenu .sub-hidden-collapse > a:after,\n 1582    .tb-megamenu .always-show .dropdown-submenu > a:after {\n 1583      display: none !important;\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/styles/black.css:\n   27    color: #7bb9e0;\n   28  }\n   29: .tb-megamenu .nav-collapse .nav > li.active > a:hover, \n   30: .tb-megamenu .nav-collapse .nav > li.active > a:focus {\n   31    background-color: inherit;\n   32    color: #7bb9e0;\n   ..\n  156  }\n  157  	\n  158: .tb-megamenu .nav-collapse,\n  159: .tb-megamenu .nav-collapse .dropdown-menu {\n  160    background-color: #333;\n  161  }\n  162: .tb-megamenu .nav-collapse .nav > li > a, \n  163: .tb-megamenu .nav-collapse .dropdown-menu a {\n  164    border-bottom-color: #444;\n  165    border-top-color: #444;\n  ...\n  173  \n  174  @media (max-width: 738px) {\n  175:   .tb-megamenu .nav-collapse .nav li a {\n  176  	 border-top-color: #444;\n  177    }\n  178:   .tb-megamenu .nav-collapse .nav > li > a, \n  179:   .tb-megamenu .nav-collapse .dropdown-menu a {\n  180      border-bottom: none;\n  181      border-top-color: #444;\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/styles/blue.css:\n   70    background-color: inherit;\n   71  }\n   72: .tb-megamenu .nav-collapse .nav > li > a:hover,\n   73: .tb-megamenu .nav-collapse .nav > li > a:focus {    \n   74  	color: #00aeee;\n   75    }\n   76: .tb-megamenu .nav-collapse .nav > li.active > a:hover, \n   77: .tb-megamenu .nav-collapse .nav > li.active > a:focus {\n   78    background-color: #00aeee;\n   79    color: #fff;\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/styles/green.css:\n   56  \n   57  @media (max-width: 979px) {\n   58: .tb-megamenu .nav-collapse .nav > li > a:hover,\n   59: .tb-megamenu .nav-collapse .nav > li > a:focus {    \n   60  	color: #abba64;\n   61    }\n   62: .tb-megamenu .nav-collapse .nav > li.active > a:hover, \n   63: .tb-megamenu .nav-collapse .nav > li.active > a:focus {\n   64    background-color: #abba64;\n   65    color: #fff;\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js:\n    6      attach: function(context) {\n    7        $('.tb-megamenu-button').click(function() {\n    8:         if(parseInt($(this).parent().children('.nav-collapse').height())) {\n    9:           $(this).parent().children('.nav-collapse').css({height: 0, overflow: 'hidden'});\n   10          }\n   11          else {\n   12:           $(this).parent().children('.nav-collapse').css({height: 'auto', overflow: 'visible'});\n   13          }\n   14        });\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/js/tb-megamenu-object.js:\n  206    }\n  207  \n  208:   actions.hideWhenCollapse = function () {\n  209      if (!currentSelected) {\n  210        return ;\n  ...\n  215        if (parseInt(liitem.attr('data-hidewcol'))) {\n  216          liitem.attr('data-hidewcol', 0);\n  217:         liitem.removeClass ('sub-hidden-collapse');\n  218        }\n  219        else {\n  220          liitem.attr('data-hidewcol', 1);\n  221:         liitem.addClass ('sub-hidden-collapse');\n  222        }\n  223      }\n  ...\n  225        if (parseInt(currentSelected.attr('data-hidewcol'))) {\n  226          currentSelected.attr('data-hidewcol', 0);\n  227:         currentSelected.removeClass ('hidden-collapse');\n  228        } \n  229        else {\n  230          currentSelected.attr('data-hidewcol', 1);\n  231:         currentSelected.addClass ('hidden-collapse');      \n  232        }\n  233      }\n  ...\n  655          }\n  656  \n  657:         var toggle = $('.toolsub-hidewhencollapse');\n  658          toggle.find('label').removeClass('active btn-success btn-danger btn-primary');\n  659          if (parseInt(liitem.attr('data-hidewcol'))) {\n  ...\n  677          \n  678  \n  679:         var toggle = $('.toolcol-hidewhencollapse');\n  680          toggle.find('label').removeClass('active btn-success btn-danger btn-primary');\n  681          if (parseInt(currentSelected.attr('data-hidewcol'))) {\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/tb_megamenu.themes.inc:\n  115    }\n  116    if($item_config['hidewcol']) {\n  117:     $vars['classes_array'][] = \"sub-hidden-collapse\";\n  118    }\n  119  \n  ...\n  254    }\n  255    if($col_config['hidewcol']) {\n  256:     $vars['classes_array'][] = 'hidden-collapse';\n  257    }\n  258    $vars['attributes_array']['data-class'] = $col_config['class'];\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/templates/backend/tb-megamenu-backend.tpl.php:\n   55              </li>\n   56              <li>\n   57:               <label class=\"hasTip\" title=\"<?php print t('Show or collapse submenus when browsing on small screens');?>\"><?php print t('Always show submenu') ?></label>\n   58                <fieldset class=\"radio btn-group toolitem-always-show-submenu\" data-always-show-submenu=\"<?php print $block_config['always-show-submenu'];?>\">\n   59                  <input type=\"radio\" <?php print $block_config['always-show-submenu'] ? '' : 'checked=\"checked\"';?> value=\"0\" name=\"tb-megamenu-always-show-submenu\" data-action=\"toggleAlwayShowSubmenu\" class=\"toolbox-toggle\" id=\"toggleAlwayShowSubmenu0\">\n   60:                 <label for=\"toggleAlwayShowSubmenu0\" class=\"btn <?php print $block_config['always-show-submenu'] ? '' : 'active btn-danger';?>\" title=\"<?php print t('Collapse submenus when browsing on small screens');?>\">No</label>\n   61                  <input type=\"radio\" <?php print $block_config['always-show-submenu'] ? 'checked=\"checked\"' : '';?> value=\"1\" name=\"tb-megamenu-always-show-submenu\" data-action=\"toggleAlwayShowSubmenu\" class=\"toolbox-toggle\" id=\"toggleAlwayShowSubmenu1\">\n   62                  <label for=\"toggleAlwayShowSubmenu1\" class=\"btn <?php print $block_config['always-show-submenu'] ? 'active btn-success' : '';?>\" title=\"<?php print t('Show submenus when browsing on small screens');?>\">Yes</label>\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/templates/backend/tb-megamenu-column-toolbox.tpl.php:\n   13    <ul>\n   14      <li>\n   15:       <label class=\"hasTip\" title=\"<?php print t('Hide when collapse') . ' - ' . t('Hide this column when the menu is collapsed on small screen') ?>\"><?php print t('Hide when collapse') ?></label>\n   16:       <fieldset class=\"radio btn-group toolcol-hidewhencollapse\">\n   17:         <input type=\"radio\" id=\"toggleHideWhenCollapse0\" class=\"toolbox-toggle\" data-action=\"hideWhenCollapse\" name=\"toggleHideWhenCollapse\" value=\"0\" checked=\"checked\"/>\n   18:         <label for=\"toggleHideWhenCollapse0\" title=\"<?php print t('Keep showing this column when the menu is collapsed on small screen') ?>\"><?php print t('No') ?></label>\n   19:         <input type=\"radio\" id=\"toggleHideWhenCollapse1\" class=\"toolbox-toggle\" data-action=\"hideWhenCollapse\" name=\"toggleHideWhenCollapse\" value=\"1\"/>\n   20:         <label for=\"toggleHideWhenCollapse1\" title=\"<?php print t('Hide this column when the menu is collapsed on small screen') ?>\"><?php print t('Yes') ?></label>\n   21        </fieldset>\n   22      </li>\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/templates/backend/tb-megamenu-submenu-toolbox.tpl.php:\n   12    <ul>\n   13      <li>\n   14:       <label class=\"hasTip\" title=\"<?php print t('Hide when collapse') . ' - ' . t('Hide this column when the menu is collapsed on small screens') ?>\"><?php print t('Hide when collapse') ?></label>\n   15:       <fieldset class=\"radio btn-group toolsub-hidewhencollapse\">\n   16:         <input type=\"radio\" id=\"togglesubHideWhenCollapse0\" class=\"toolbox-toggle\" data-action=\"hideWhenCollapse\" name=\"togglesubHideWhenCollapse\" value=\"0\" checked=\"checked\"/>\n   17:         <label for=\"togglesubHideWhenCollapse0\" title=\"<?php print t('Keep showing this submenu when the menu is collapsed on small screens') ?>\"><?php print t('No') ?></label>\n   18:         <input type=\"radio\" id=\"togglesubHideWhenCollapse1\" class=\"toolbox-toggle\" data-action=\"hideWhenCollapse\" name=\"togglesubHideWhenCollapse\" value=\"1\"/>\n   19:         <label for=\"togglesubHideWhenCollapse1\" title=\"<?php print t('Hide this submenu when the menu is collapsed on small screens') ?>\"><?php print t('Yes') ?></label>\n   20        </fieldset>\n   21      </li>\n\n/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/templates/tb-megamenu.tpl.php:\n    1  <div <?php print $attributes;?> class=\"<?php print $classes;?>\">\n    2    <?php if($section == 'frontend') :?>\n    3:     <button data-target=\".nav-collapse\" data-toggle=\"collapse\" class=\"btn btn-navbar tb-megamenu-button\" type=\"button\">\n    4        <i class=\"icon-reorder\"></i>\n    5      </button>\n    6:     <div class=\"nav-collapse collapse<?php print $block_config['always-show-submenu'] ? ' always-show' : '';?>\">\n    7    <?php endif;?>\n    8    <?php print $content;?>\n\n163 matches across 15 files\n",
+			"settings":
+			{
+				"buffer_size": 19639,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/default.css",
+			"settings":
+			{
+				"buffer_size": 39970,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/aegir/platforms/drupal-7.34/sites/all/modules/file_read/file_read.module",
+			"settings":
+			{
+				"buffer_size": 7427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/simplenews-newsletter-body.tpl.php",
+			"settings":
+			{
+				"buffer_size": 1171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n\nfunction file_read_menu(){\n	$items['statistik'] = array(\n		'page callback' => 'select',\n		'access callback' => TRUE\n		);\n	return $items;\n}\n\nfunction select(){\n	echo \"hej\";\n	return;\n}\n\n/**\n * Declare what blocks are provided by this module.\n * Implements hook_block_info().\n * var $file = include DRUPAL_ROOT . '/sites/devel.ocita.fynbib.dk/files/statestik/uge/fredag.inc';\n */\nfunction file_read_block_info(){\n    $block['statestik'] = array(\n        'info' => t('Vis Statistik'),\n        'cache' => DRUPAL_NO_CACHE,\n    );\n    return $block;\n}\n \n/**\n * Define what our block is going to look like.\n * Implements hook_block_view().\n */\nfunction file_read_block_view($block_key){\n    $block = array();\n \n    if($block_key == 'statestik'){ //We only want to define the content of OUR block\n        //This is the title of the block.\n        $block['subject'] = t('Statistik');\n 		$mandag = file_get_contents (DRUPAL_ROOT . '/sites/devel.ocita.fynbib.dk/files/statestik/uge/mandag.inc');\n 		$tirsdag = file_get_contents (DRUPAL_ROOT . '/sites/devel.ocita.fynbib.dk/files/statestik/uge/tirsdag.inc');\n 		$onsdag = file_get_contents (DRUPAL_ROOT . '/sites/devel.ocita.fynbib.dk/files/statestik/uge/onsdag.inc');\n 		$torsdag = file_get_contents (DRUPAL_ROOT . '/sites/devel.ocita.fynbib.dk/files/statestik/uge/torsdag.inc');\n 		$fredag = file_get_contents (DRUPAL_ROOT . '/sites/devel.ocita.fynbib.dk/files/statestik/uge/fredag.inc');\n 		$lordag = file_get_contents (DRUPAL_ROOT . '/sites/devel.ocita.fynbib.dk/files/statestik/uge/lordag.inc');\n 		$sondag = file_get_contents (DRUPAL_ROOT . '/sites/devel.ocita.fynbib.dk/files/statestik/uge/sondag.inc');\n 		$sidsteuge = file_get_contents (DRUPAL_ROOT . '/sites/devel.ocita.fynbib.dk/files/statestik/uge/sidsteuge.inc');\n\n 		$test = \"<select id='test' name='Uge'>\n				<option value=\" .$lordag .\">Mandag</option>\n				<option value='saab'>Tirsdag</option>\n				<option value='fiat'>Onsdag</option>\n				<option value='audi'>Torsdag</option>\n				<option value='audi'>Fredag</option>\n				<option value='audi'>L&oslash;rdag</option>\n				<option value='audi'>S&oslash;ndag</option>\n				<option value='audi'>Sidste Uge</option>\n				</select>\";\n        //Define the block content.\n        //$block['content'] = utf8_encode(\"<pre>\" .$file . \"</pre>\");\n        $block['content'] = utf8_encode($test);\n    }\n \n    return $block;\n}\n",
+			"settings":
+			{
+				"buffer_size": 2368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/aegir/platforms/drupal-7.34/sites/all/modules/file_read/test.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/aegir/platforms/drupal-7.34",
+		"/var/aegir/platforms/drupal-7.34/sites",
+		"/var/aegir/platforms/drupal-7.34/sites/all",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/sass",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/stylesheets",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/templates"
+	],
+	"file_history":
+	[
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/template.php",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/templates/simplenews-newsletter-body.tpl.php~",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/templates/simplenews-newsletter-body.tpl.php",
+		"/home/amer/Dokumenter/file_read.module",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/sass/style.scss",
+		"/var/aegir/platforms/drupal-7.34/index.php",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/file_read/file_read.module",
+		"/var/aegir/platforms/drupal-7.34/includes/bootstrap.inc",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/file_read/file_read.info",
+		"/home/amer/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/amer/Skrivebord/index.html",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/css/calendar_multiday.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/js/button.js",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/calendar/css/calendar_multiday.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/BootstrapOcita.info",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/css/style.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/templates/tb-megamenu-item.tpl.php",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/templates/tb-megamenu-item.tpl.php",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/tb-megamenu-item.tpl.php",
+		"/home/amer/Skrivebord/untitled.html",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/stylesheets/style.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/css/style.scss",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/css/style.sass",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/base.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/css/megamenu.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/compatibility.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/jq/jquery.smartmenus.bootstrap.js",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/default.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/bootstrap/css/styler.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/bootstrap.css",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/chosen/chosen-sprite@2x.png",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/theme/menu/menu-link.func.php",
+		"/var/aegir/platforms/drupal-7.34/includes/theme.inc",
+		"/var/aegir/platforms/drupal-7.34/index.php-tmp",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/BootstrapOcita/Ocita.sublime-project",
+		"/var/aegir/platforms/drupal-7.34/includes/common.inc",
+		"/home/amer/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/amer/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/devel/krumo/docs/packages.html",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/panels/templates/panels-add-content-link.tpl.php",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/ctools/help/plugins-api.html",
+		"/var/aegir/platforms/drupal-7.34/includes/pager.inc",
+		"/var/aegir/platforms/drupal-7.34/MAINTAINERS.txt",
+		"/var/aegir/platforms/drupal-7.34/sites/all/modules/menu_attributes/menu_attributes.info",
+		"/var/aegir/platforms/drupal-7.34/INSTALL.txt",
+		"/var/aegir/platforms/drupal-7.34/sites/all/themes/bootstrap/template.php",
+		"/var/aegir/platforms/makefiles/oc_ding2.make",
+		"/home/amer/Skrivebord/FIL nummer 3.ini",
+		"/var/aegir/platforms/odense726-1/profiles/ding2/ding2tal-override.make",
+		"/var/aegir/platforms/odense726-1/profiles/ding2/modules/ding_reservation/ding_reservation.module",
+		"/var/aegir/platforms/odense726-1/profiles/ding2/modules/ding_entity/ding_entity.api.php",
+		"/var/aegir/platforms/odense726-1/profiles/ding2/modules/ding_entity/ding_entity.module",
+		"/var/aegir/platforms/odense726-1/profiles/ding2/modules/alma/alma.module",
+		"/var/aegir/platforms/odense726-1/sites/all/modules/contrib/jquery_update/jquery_update.install",
+		"/var/aegir/platforms/odense726-1/sites/all/modules/contrib/jquery_update/jquery_update.info",
+		"/var/aegir/platforms/odense726-1/sites/all/modules/contrib/media/media.info",
+		"/home/amer/Hentede filer/admin-ajax.php",
+		"/home/amer/Hentede filer/admin-ajax(1).php",
+		"/home/amer/Hentede filer/bpi-7.x-1.0/bpi.info",
+		"/var/aegir/platforms/odense726-1/profiles/ding2/libraries/ckeditor/config.js",
+		"/var/aegir/platforms/odense726-1/sites/all/modules/contrib/jquery_update/jquery_update.module",
+		"/var/aegir/platforms/drone/sites/all/modules/custom/oc_drones/oc_drones.info",
+		"/home/amer/Skrivebord/Nye KPI nøgler til de fynske bib/Nordfyns Bibliotek/scripts/webtrends.load.js",
+		"/home/amer/Skrivebord/Nye KPI nøgler til de fynske bib/kpi_oc/webtrends.load.html",
+		"/home/amer/Skrivebord/Nye KPI nøgler til de fynske bib/kpi_oc/webtrends.html",
+		"/home/amer/Hentede filer/JavaScriptSpellCheck/04-jQuery Example.html",
+		"/etc/host.conf",
+		"/var/aegir/platforms/kunst-726/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.js",
+		"/var/aegir/platforms/odense726-1/sites/all/modules/custom/ding_place2book/ding_place2book.module",
+		"/var/aegir/platforms/oc_back_to_top/css/oc_back_to_top_multi.css",
+		"/var/aegir/platforms/makefiles/kunstportalfyn.make",
+		"/var/aegir/platforms/makefiles/drupal-org-core.make",
+		"/var/aegir/platforms/makefiles/ding2.patch"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu",
+			"/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/",
+			"/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu",
+			"/var/aegir/platforms/drupal-7.34/sites/all",
+			"/var/aegir/platforms/drupal-7.34",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"collapse",
+			"collapsible",
+			"visibility: hidden",
+			"display: hidden",
+			"hidden",
+			"visibility",
+			"tb",
+			".group-header ",
+			"padding: 10px",
+			".page-user",
+			".user-profile",
+			"statestik",
+			"state",
+			".page-calendar .pager .date-prev, ",
+			";\n",
+			"}\n",
+			".node .field-name-field-update",
+			"main-lighter-color",
+			".tb-megamenu-item .active-trail",
+			"ansat-info",
+			"ansat",
+			".group-header",
+			".form-item-ugedage, .form-item-maaned",
+			"date-pre",
+			"#74A5D7",
+			".pane-vagtplan",
+			".tb-megamenu-item .active-trail,",
+			"even",
+			"rgba",
+			".navbar-brand",
+			".navbar > .container .navbar-brand",
+			".logo",
+			".panel-panel .page-files",
+			".panel-panel .page-files .pane-title",
+			".overinfo",
+			".pane-allnews .",
+			"}\n",
+			"min-height",
+			"overinfo",
+			".pane-allnews .views-row p, .pane-allnews .overinfo",
+			"view-files",
+			"page-files",
+			".tb-megamenu .nav-collapse .nav > li > a",
+			"54a0a5",
+			"radius",
+			"date-head",
+			"statestik",
+			"file_read_page",
+			"This is some content delivered via AJAX",
+			"ajax_link",
+			".view-vagtplan",
+			".pane-vagtplan",
+			"rgba",
+			"file_read_ajax_callback",
+			"file_read_ajax_callback\n",
+			"colors",
+			"mypage",
+			".tb-megamenu .nav-collapse .dropdown-menu a",
+			"$post-title-bgcolor",
+			"rgba",
+			"color: $",
+			"border-bottom",
+			".tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover",
+			"#navbar",
+			"navbar",
+			".pane-all",
+			".pane-vagtplan",
+			"$main",
+			"#main",
+			".pane-files",
+			".panel-pane .pane-content",
+			".panel",
+			".page-calendar",
+			"mini-day-on",
+			".date-hea",
+			".date-prev",
+			"pager",
+			"date-prev",
+			"pager",
+			"5px solid",
+			"5px",
+			".view-afdelingen .view-content .views-row",
+			"$main-",
+			".fa",
+			"center",
+			"white",
+			"caret",
+			"#69c8cf",
+			"green",
+			"border",
+			"#e54e4b",
+			"hover",
+			"eeeeee",
+			"backg",
+			"background-color",
+			"980px",
+			"fa-home",
+			"#007EBE",
+			"yellow",
+			"color: #e54e4b",
+			"#e54e4b",
+			"hover",
+			"emmetio",
+			" ding_provider_build_entity_id",
+			"wys",
+			"jquery_ui",
+			"oc_ding2.make",
+			"ctools",
+			"ddbasic",
+			"+",
+			"ding",
+			"odensecentralbibliotek/latto_odense",
+			"ding\n",
+			"ding2.patch",
+			"ding2",
+			"usercontent",
+			"\nting"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"statestik",
+			"$dark",
+			"$main-color",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10471,
+								10471
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6178.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/amer/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "BootstrapOcita.info",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1081,
+								1081
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/calendar_multiday.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14129,
+								14129
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/jquery.smartmenus.bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								509
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19639,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										190,
+										208
+									],
+									[
+										411,
+										429
+									],
+									[
+										557,
+										575
+									],
+									[
+										602,
+										620
+									],
+									[
+										645,
+										663
+									],
+									[
+										685,
+										703
+									],
+									[
+										848,
+										866
+									],
+									[
+										893,
+										911
+									],
+									[
+										936,
+										954
+									],
+									[
+										976,
+										994
+									],
+									[
+										1327,
+										1335
+									],
+									[
+										1410,
+										1418
+									],
+									[
+										1465,
+										1473
+									],
+									[
+										1514,
+										1522
+									],
+									[
+										1762,
+										1770
+									],
+									[
+										1894,
+										1902
+									],
+									[
+										2068,
+										2076
+									],
+									[
+										2183,
+										2191
+									],
+									[
+										2268,
+										2276
+									],
+									[
+										2277,
+										2285
+									],
+									[
+										2360,
+										2368
+									],
+									[
+										2408,
+										2416
+									],
+									[
+										2490,
+										2498
+									],
+									[
+										2571,
+										2579
+									],
+									[
+										2696,
+										2704
+									],
+									[
+										2762,
+										2770
+									],
+									[
+										2834,
+										2842
+									],
+									[
+										2922,
+										2930
+									],
+									[
+										2971,
+										2979
+									],
+									[
+										3139,
+										3147
+									],
+									[
+										3217,
+										3225
+									],
+									[
+										3294,
+										3302
+									],
+									[
+										3393,
+										3401
+									],
+									[
+										3605,
+										3613
+									],
+									[
+										3614,
+										3622
+									],
+									[
+										3751,
+										3759
+									],
+									[
+										3898,
+										3906
+									],
+									[
+										3969,
+										3977
+									],
+									[
+										4074,
+										4082
+									],
+									[
+										4155,
+										4163
+									],
+									[
+										4247,
+										4255
+									],
+									[
+										4345,
+										4353
+									],
+									[
+										4466,
+										4474
+									],
+									[
+										4515,
+										4523
+									],
+									[
+										4676,
+										4684
+									],
+									[
+										4831,
+										4839
+									],
+									[
+										4934,
+										4942
+									],
+									[
+										4989,
+										4997
+									],
+									[
+										5044,
+										5052
+									],
+									[
+										5102,
+										5110
+									],
+									[
+										5226,
+										5234
+									],
+									[
+										5291,
+										5299
+									],
+									[
+										5398,
+										5406
+									],
+									[
+										5469,
+										5477
+									],
+									[
+										5540,
+										5548
+									],
+									[
+										5614,
+										5622
+									],
+									[
+										5722,
+										5730
+									],
+									[
+										5834,
+										5842
+									],
+									[
+										5982,
+										5990
+									],
+									[
+										6079,
+										6087
+									],
+									[
+										6136,
+										6144
+									],
+									[
+										6230,
+										6238
+									],
+									[
+										6327,
+										6335
+									],
+									[
+										6396,
+										6404
+									],
+									[
+										6502,
+										6510
+									],
+									[
+										6550,
+										6558
+									],
+									[
+										6778,
+										6786
+									],
+									[
+										6842,
+										6850
+									],
+									[
+										6991,
+										6999
+									],
+									[
+										7105,
+										7113
+									],
+									[
+										7140,
+										7148
+									],
+									[
+										7149,
+										7157
+									],
+									[
+										7286,
+										7294
+									],
+									[
+										7295,
+										7303
+									],
+									[
+										7541,
+										7549
+									],
+									[
+										7704,
+										7712
+									],
+									[
+										7732,
+										7740
+									],
+									[
+										7741,
+										7749
+									],
+									[
+										7945,
+										7953
+									],
+									[
+										7993,
+										8001
+									],
+									[
+										8136,
+										8144
+									],
+									[
+										8160,
+										8168
+									],
+									[
+										8201,
+										8209
+									],
+									[
+										8228,
+										8236
+									],
+									[
+										8361,
+										8369
+									],
+									[
+										8385,
+										8393
+									],
+									[
+										8430,
+										8438
+									],
+									[
+										8457,
+										8465
+									],
+									[
+										8547,
+										8555
+									],
+									[
+										8654,
+										8662
+									],
+									[
+										8681,
+										8689
+									],
+									[
+										8809,
+										8817
+									],
+									[
+										8942,
+										8950
+									],
+									[
+										9016,
+										9024
+									],
+									[
+										9134,
+										9142
+									],
+									[
+										9183,
+										9191
+									],
+									[
+										9353,
+										9361
+									],
+									[
+										9454,
+										9462
+									],
+									[
+										9509,
+										9517
+									],
+									[
+										9676,
+										9684
+									],
+									[
+										9738,
+										9746
+									],
+									[
+										9846,
+										9854
+									],
+									[
+										10015,
+										10023
+									],
+									[
+										10073,
+										10081
+									],
+									[
+										10296,
+										10304
+									],
+									[
+										10443,
+										10451
+									],
+									[
+										10605,
+										10613
+									],
+									[
+										10693,
+										10701
+									],
+									[
+										10750,
+										10758
+									],
+									[
+										10801,
+										10809
+									],
+									[
+										11068,
+										11076
+									],
+									[
+										11131,
+										11139
+									],
+									[
+										11279,
+										11287
+									],
+									[
+										11314,
+										11322
+									],
+									[
+										11407,
+										11415
+									],
+									[
+										11457,
+										11465
+									],
+									[
+										11630,
+										11638
+									],
+									[
+										11722,
+										11730
+									],
+									[
+										11774,
+										11782
+									],
+									[
+										12024,
+										12032
+									],
+									[
+										12079,
+										12087
+									],
+									[
+										12174,
+										12182
+									],
+									[
+										12237,
+										12245
+									],
+									[
+										12487,
+										12495
+									],
+									[
+										12542,
+										12550
+									],
+									[
+										12637,
+										12645
+									],
+									[
+										12700,
+										12708
+									],
+									[
+										13043,
+										13051
+									],
+									[
+										13116,
+										13124
+									],
+									[
+										13253,
+										13261
+									],
+									[
+										13476,
+										13484
+									],
+									[
+										13718,
+										13726
+									],
+									[
+										13857,
+										13865
+									],
+									[
+										14080,
+										14088
+									],
+									[
+										14234,
+										14242
+									],
+									[
+										14359,
+										14367
+									],
+									[
+										14604,
+										14612
+									],
+									[
+										14969,
+										14977
+									],
+									[
+										15101,
+										15109
+									],
+									[
+										15429,
+										15437
+									],
+									[
+										16130,
+										16138
+									],
+									[
+										16909,
+										16917
+									],
+									[
+										16967,
+										16975
+									],
+									[
+										17024,
+										17032
+									],
+									[
+										17108,
+										17116
+									],
+									[
+										17172,
+										17180
+									],
+									[
+										17227,
+										17235
+									],
+									[
+										17257,
+										17265
+									],
+									[
+										17338,
+										17346
+									],
+									[
+										17413,
+										17421
+									],
+									[
+										17529,
+										17537
+									],
+									[
+										17584,
+										17592
+									],
+									[
+										17614,
+										17622
+									],
+									[
+										17677,
+										17685
+									],
+									[
+										17744,
+										17752
+									],
+									[
+										18066,
+										18074
+									],
+									[
+										18124,
+										18132
+									],
+									[
+										18182,
+										18190
+									],
+									[
+										18266,
+										18274
+									],
+									[
+										18333,
+										18341
+									],
+									[
+										18388,
+										18396
+									],
+									[
+										18421,
+										18429
+									],
+									[
+										18505,
+										18513
+									],
+									[
+										18581,
+										18589
+									],
+									[
+										18701,
+										18709
+									],
+									[
+										18756,
+										18764
+									],
+									[
+										18789,
+										18797
+									],
+									[
+										18855,
+										18863
+									],
+									[
+										18923,
+										18931
+									],
+									[
+										19280,
+										19288
+									],
+									[
+										19303,
+										19311
+									],
+									[
+										19460,
+										19468
+									],
+									[
+										19469,
+										19477
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								10604,
+								10604
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4610.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/var/aegir/platforms/drupal-7.34/sites/all/modules/tb_megamenu/css/default.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37381,
+								37381
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 22631.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "/var/aegir/platforms/drupal-7.34/sites/all/modules/file_read/file_read.module",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4391,
+								4391
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7616.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "templates/simplenews-newsletter-body.tpl.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1544,
+								1544
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/var/aegir/platforms/drupal-7.34/sites/all/modules/file_read/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.801114292914,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 123.0
+	},
+	"project": "Ocita.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"39":
+				{
+					"group": 1,
+					"index": 0
+				},
+				"42":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"43":
+				{
+					"group": 1,
+					"index": 1
+				},
+				"77":
+				{
+					"group": 1,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.0415282392027,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
