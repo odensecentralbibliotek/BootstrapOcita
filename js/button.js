@@ -24,7 +24,8 @@ jQuery(document).ready(function($){
 	});
 })
 function test1() {
-	console.log("Hej og velkommen til Ocita.dk! ");
+	// denne funktion gjorde at det var lettere at se om dette js fil er blevet indlæst. 
+	console.log("JS fil er indlæst korrekt");
 }
 
 //document.querySelector('.tb-megamenu .btn-navbar').style.display ="none";
