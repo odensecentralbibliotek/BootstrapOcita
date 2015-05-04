@@ -21,8 +21,12 @@ $dark: #54a0a5;
 $even: #EFF9FA;
 $ansat-info-links: #2a5052;
 /** -------------  --------------- **/
-
+// Admin menu //
+#admin-menu-wrapper {
+    display:none;
+}
 //* USER profile **/ 
+
 .user-profile .group-header {
     color: $main-darker-color;
 }
@@ -212,6 +216,9 @@ a:before {
 .tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
     border-bottom: 3px solid #54a0a5;
 }
+.tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+  border-right-color: rgba(120, 205, 211, 1);
+}
 .tb-megamenu .nav-collapse .dropdown-menu {
     background-color: white !important;
     border: 2px solid $main-color;
@@ -391,6 +398,12 @@ a:before {
 .calendar-calendar td {
     border: none;
 }
+    .pane-drifts-information .col-md-12,
+    .pane-general-information .col-md-12,
+    .pane-afdelings-information .col-md-12 {
+      background: white;
+      margin-bottom: 10px;
+    }
 /* Small devices (tablets, 768px and up) */
 
 @media (min-width: 768px) {
@@ -505,6 +518,10 @@ a:before {
 /* Medium devices (desktops, 992px and up) */
 
 @media (min-width: 992px) {
+    #admin-menu-wrapper {
+        display: block;
+    }
+
     .navbar>.container .navbar-brand {
         margin-left: -15px;
         position: relative;
@@ -523,6 +540,10 @@ a:before {
     }
     .tb-megamenu-item .active-trail, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
         border-bottom: 3px solid #54a0a5;
+    }
+    .tb-megamenu .nav li.dropdown.active > .dropdown-toggle, .tb-megamenu .nav li.dropdown.open.active > .dropdown-toggle, .tb-megamenu .nav > li.dropdown.open.active > a:hover {
+    border-right-color: rgba(120, 205, 211, 1) !important;
+    border-left-color: rgba(120, 205, 211, 1) !important;
     }
     #navbar {
         background-color: $dark;
@@ -669,6 +690,7 @@ a:before {
     .view-general-information .views-image-body, .view-drifts-information .views-image-body, .view-afdelings-information .views-image-body {
         min-height: 100px;
     }
+
     .view-files h2 {
         margin-top: 0px;
         font-size: 2em;
