@@ -42,6 +42,7 @@ stylesheets[all][] = jquery.smartmenus.bootstrap.css
 scripts[] = 'jquery.smartmenus.js'
 scripts[] = 'jq/jquery.smartmenus.bootstrap.js'
 scripts[] = 'js/button.js'
+scripts[] = 'js/custom-order.js'
 ; scripts[] = 'bootstrap/js/affix.js'
 ; scripts[] = 'bootstrap/js/alert.js'
 ; scripts[] = 'bootstrap/js/button.js'

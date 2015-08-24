@@ -373,6 +373,7 @@ table.calendar-legend tr.even .stripe {
 .calendar-calendar td span.date-display-end,
 .calendar-calendar td span.date-display-separator {
   font-weight: bold;
+  display: none;
 }
 .calendar-calendar td .inner div.day a {
   color: #4b85ac;
@@ -614,7 +615,7 @@ table.calendar-legend tr.even .stripe {
 .calendar-calendar .week-view .full td.multi-day div.weekview,
 .calendar-calendar .day-view .full td.multi-day div.dayview {
   background: #54a0a5;
-  height: 3.5em !important;
+  height: 20px !important;
   overflow: hidden;
   margin: 0px auto;
   color: #ffffff;
@@ -751,13 +752,13 @@ table.calendar-legend tr.even .stripe {
   position: relative;
   margin-top: 0px !important;
   width: 100%;
+  background-color: #498c90;
 }
 
 .view .date-nav-wrapper .date-nav {
   background-color: transparent;
   border: 0px;
   height: 30px;
-  height: auto;
   min-height: 30px;
   position: relative;
   margin-bottom: 10px;
@@ -788,6 +789,8 @@ table.calendar-legend tr.even .stripe {
   width: auto;
   z-index: 1;
   font-size: 12px;
+  color: #fff;
+  margin-top: 5px;
 }
 
 .block-views .view .date-nav-wrapper .date-prev {
@@ -806,11 +809,13 @@ table.calendar-legend tr.even .stripe {
   top: 0px;
   text-align: center;
   z-index: 0;
+  color: #fff;
 }
 
 .view .date-nav-wrapper .date-heading h3 {
   line-height: 30px;
   font-size: 1.7em;
+  padding-top: 10px;
 }
 .date-heading {
   font-size: .8em;
@@ -829,6 +834,8 @@ table.calendar-legend tr.even .stripe {
   width: auto;
   z-index: 1;
   font-size: 12px;
+  color: #fff;
+  margin-top: 5px;
 }
 
 .view .date-nav-wrapper .date-next a {
@@ -953,6 +960,14 @@ ul.calendar-links,
     color:white;
   }
   .calendar .views-field a {
-    color: #54a0a5;
+    color: #54a0a5; 
   }
+}
+@media (max-width: 360px) {
+    .view .date-nav-wrapper .date-prev {
+        display: none;
+    }
+    .view .date-nav-wrapper .date-next {
+        display: none;
+    }    
 }

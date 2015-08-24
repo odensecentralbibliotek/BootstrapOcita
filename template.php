@@ -12,10 +12,12 @@ function BootstrapOcita_preprocess_html(&$vars) {
 		));
 	// add calendar CSS to reconfigure the style for calender
 	drupal_add_css(path_to_theme().'/css/calendar_multiday.css');
-
-}
 drupal_add_css("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css");
 drupal_add_js(path_to_theme().'/js/button.js');
+drupal_add_js(path_to_theme().'/js/custom-order.js');
+drupal_add_css(path_to_theme().'/css/megamenu.css');
+}
+
 
 function BootstrapOcita_css_alter(&$css) {
 	$path = drupal_get_path('module', 'tb_megamenu');
@@ -23,7 +25,7 @@ function BootstrapOcita_css_alter(&$css) {
 	//unset($css[$path.'/css/base.css']);
 	//unset($css[$path.'/css/compatibility.css']);
 }
-drupal_add_css(path_to_theme().'/css/megamenu.css');
+
 
 function BootstrapOcita_menu_link(array $variables) {
 	$element  = $variables['element'];

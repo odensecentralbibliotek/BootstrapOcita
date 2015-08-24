@@ -1,3 +1,7 @@
+html {
+    overflow-y: scroll;
+}
+
 /** -------------  --------------- **/
 /* line 25, ../sass/style.scss */
 #admin-menu-wrapper {
@@ -36,6 +40,7 @@
 ul.tabs--primary.nav.nav-tabs {
   background: white;
   margin-bottom: 0px;
+  display: none;
 }
 
 /* line 52, ../sass/style.scss */
@@ -63,22 +68,19 @@ ul.tabs--secondary.pagination.pagination-sm {
 /* line 67, ../sass/style.scss */
 .page-header {
   background: #54a0a5;
-  height: 70px;
   margin-bottom: 0px;
   padding-top: 20px;
   border-bottom: 8px solid #87d3d8;
   padding: 20px;
   color: #e1f4f5;
-  line-height: 27px;
+  font-size: 25px;
 }
 
 /* line 77, ../sass/style.scss */
 .user-profile .group-header .field-item img {
-  border-radius: 50%;
   text-align: center;
   display: block;
   position: relative;
-  border: 5px solid #54a0a5;
   margin-left: auto;
   margin-right: auto;
 }
@@ -193,6 +195,7 @@ a {
 .page-calendar .pager .date-prev, .page-calendar .pager .date-next {
   color: #e1f4f5;
   line-height: 0px;
+  margin-top: 20px;
 }
 
 /* line 164, ../sass/style.scss */
@@ -214,6 +217,9 @@ a {
 .pane-vagtplan ul li {
   list-style: none;
   padding: 10px;
+}
+.pane-vagtplan .views-label-title {
+    display: none;
 }
 
 /* line 177, ../sass/style.scss */
@@ -368,6 +374,7 @@ a:before {
 /* line 278, ../sass/style.scss */
 .ansat-img {
   float: left;
+  margin-right: 20px;
 }
 
 /* line 281, ../sass/style.scss */
@@ -498,6 +505,17 @@ a:before {
 /* line 368, ../sass/style.scss */
 .pane-vagtplan .pane-title {
   height: 20px !important;
+  left: 0;
+  right: 0;
+  margin-top: 0px !important;
+  margin-left: 0px;
+  padding-top: 15px;
+  text-align: center;
+  background-color: #54a0a5;
+}
+
+.views-label-field-dato-dato {
+    display: none;
 }
 
 /* line 371, ../sass/style.scss */
@@ -526,6 +544,7 @@ a:before {
 /* line 389, ../sass/style.scss */
 .view-drifts-information .views-image, .view-afdelings-information .views-image, .view-general-information .views-image {
   float: left;
+  margin-right: 10px;
 }
 
 /* line 394, ../sass/style.scss */
@@ -545,6 +564,7 @@ a:before {
 .pane-afdelings-information .col-md-12 {
   background: white;
   margin-bottom: 10px;
+  min-height: 220px;
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -572,8 +592,7 @@ a:before {
 
   /* line 423, ../sass/style.scss */
   #navbar {
-    background-color: #69c8cf;
-    height: 65px;
+
     border-radius: 0px;
   }
 
@@ -585,7 +604,6 @@ a:before {
   /* line 431, ../sass/style.scss */
   .tb-megamenu {
     background: none !important;
-    float: left;
   }
 
   /* line 435, ../sass/style.scss */
@@ -598,7 +616,6 @@ a:before {
     color: white;
     font-weight: lighter;
     height: 63px;
-    width: 63px;
   }
 
   /* line 444, ../sass/style.scss */
@@ -628,7 +645,7 @@ a:before {
 
   /* line 462, ../sass/style.scss */
   .views-row p {
-    padding: 0px 10px 0px 10px;
+    padding: 0px 0px 0px 0px;
   }
 
   /* line 465, ../sass/style.scss */
@@ -646,8 +663,6 @@ a:before {
 
   /* line 476, ../sass/style.scss */
   #navbar {
-    background-color: #69c8cf;
-    height: 70px;
     border-radius: 0px;
   }
 
@@ -696,7 +711,7 @@ a:before {
 
   /* line 511, ../sass/style.scss */
   .views-row p {
-    padding: 0px 10px 0px 10px;
+    padding: 0px 0px 0px 0px;
   }
 
   /* line 514, ../sass/style.scss */
@@ -762,6 +777,7 @@ a:before {
   #navbar .navbar-collapse {
     float: right;
     padding-right: 0px;
+    padding-left: 0px !important;
   }
 
   /* line 560, ../sass/style.scss */
@@ -835,7 +851,7 @@ a:before {
 
   /* line 608, ../sass/style.scss */
   .views-row p {
-    padding: 0px 10px 0px 10px;
+    padding: 0px 0px 0px 0px;
   }
 
   /* line 611, ../sass/style.scss */
@@ -850,7 +866,7 @@ a:before {
     padding: 5px 0px 79px 0px;
     margin: 2.5% 2.5% 6% 2.5%;
     width: 20%;
-    height: 256px;
+    height: 270px;
   }
 
   /* line 623, ../sass/style.scss */
@@ -978,13 +994,14 @@ a:before {
   .ansat-info {
     background-color: #54a0a5;
     padding: 5px;
-    padding-left: 10px;
-    padding-top: 0px;
+    padding-left: 5px;
+    padding-top: 5px;
   }
 
   /* line 717, ../sass/style.scss */
   .ansat-info a {
     color: #2a5052;
+    font-size: 12px;
   }
 
   /* line 720, ../sass/style.scss */
@@ -1096,7 +1113,6 @@ a:before {
     width: 35% !important;
     height: 35% !important;
   }
-
   /* line 803, ../sass/style.scss */
   .logo {
     display: block;
@@ -1141,7 +1157,7 @@ a:before {
 
   /* line 832, ../sass/style.scss */
   #navbar ul {
-    border-left: 2px solid #87d3d8;
+    
   }
 
   /* line 835, ../sass/style.scss */
@@ -1226,7 +1242,7 @@ a:before {
 
   /* line 889, ../sass/style.scss */
   .views-row p {
-    padding: 0px 10px 0px 10px;
+    padding: 0px 0px 0px 0px;
   }
 
   /* line 892, ../sass/style.scss */
@@ -1284,6 +1300,7 @@ a:before {
   /* line 929, ../sass/style.scss */
   .panel-pane.pane-views.pane-files.page-files {
     margin-top: 30px;
+    margin-bottom: 30px;
   }
 
   /* Afdelingen */
@@ -1308,7 +1325,6 @@ a:before {
   .ansat-info a {
     color: #e1f4f5;
   }
-
   /* line 950, ../sass/style.scss */
   .ansat-img {
     text-align: center;
@@ -1395,13 +1411,13 @@ a:before {
 
   /* line 1007, ../sass/style.scss */
   .main-container .row > section {
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 
   /* line 1012, ../sass/style.scss */
   .pager {
-    margin-bottom: 0px;
+    margin-bottom: 0px !important;
   }
 
   /* line 1015, ../sass/style.scss */
@@ -1514,7 +1530,6 @@ a:before {
   /* line 1096, ../sass/style.scss */
   .page-header {
     background: #54a0a5;
-    height: 70px;
     margin-bottom: 0px;
     padding-top: 20px;
     border-bottom: 8px solid #87d3d8;
@@ -1739,9 +1754,190 @@ a:before {
     background: white;
     width: 50%;
   }
-
   /* line 1269, ../sass/style.scss */
   .user-profile {
     width: 100%;
   }
+}
+@media (max-width: 1000px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+}
+a:hover {
+    text-decoration: none;
+}
+.date-display-single {
+    font-style: italic;
+}
+
+@media (max-width: 1000px) {
+    .page-header {
+        font-size: 14px;
+    }
+}
+@media (max-width: 991px) {
+    .views-field-field-user-tlf img {
+        display: none;
+    }
+}
+@media (max-width: 352px) {
+    .page-header {
+        font-size: 12px;
+    }
+}
+.date-repeat-rule {
+    display: none;
+}
+#block-custom-1 {
+    margin-bottom: 20px;
+    color: #fff;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #54a0a5;
+}
+.custom-test-test {
+    background-color: #fff;
+    padding: 20px;
+}
+.pane-wiki .pane-title {
+    display: none;
+}
+.pane-search-form {
+    margin-bottom: 20px;
+}
+.btn-info {
+    background-color: #54a0a5 !important;
+    border: 1px solid #54a0a5 !important;
+}
+
+/* ansatte view start */
+
+.views-field-field-user-image {
+    margin-right: 20px;
+}
+.views-field-field-user-image img {
+    width: 100px; 
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    /*background-color: #000;*/
+}
+.breadcrumb {
+    display: none;
+}
+.view-ansatte-view .view-content {
+    background-color: #fff;
+}
+
+@media (max-width: 360px) {
+    .view-ansatte-view {
+        font-size: 14px;
+    }
+}
+@media (max-width: 992px) {
+    .views-field-field-user-image {
+        display: none !important;
+    }
+    .views-row-first {
+        padding-top: 20px;
+    }
+    .views-row {
+        margin-right: 20px;
+        margin-bottom: 20px;        
+        padding-bottom: 20px;
+    }
+}
+.views-field.views-field-field-user-stilling {
+  display: none;
+}
+/* ansatte view slut */
+@media (max-width: 768px) {
+    .panel-pane.pane-views.pane-files.page-files {
+        display: none;
+    }
+}
+@media (max-width: 992px) {
+    .pane-vagtplan .pane-title {
+    height: 65px !important;    
+    color: #fff;
+    border-bottom: 10px solid #78cdd3;
+    }
+    .pane-views .pane-title {
+    height: 65px !important;    
+    color: #fff;
+    background-color: #54a0a5;
+    border-bottom: 10px solid #78cdd3;
+    margin-left: 0px !important;
+    padding-top: 10px;
+    text-align: center;
+    }
+}
+.vagt-tlf-link {
+    color: #fff;
+}
+.col-sm-8 h2.pane-title {
+    display: none;
+}
+.pane-general-information h2.pane-title {
+    display: none;
+}
+span.field-content {
+    margin-left: 10px;
+}
+
+ul.pager {
+    display: none;
+}
+.panel-panel.right.col-lg-10 {
+    padding-right: 0px !important;
+}
+.col-lg-2 h2.pane-title {
+    display: none;
+}
+.panel-panel.bottom.col-lg-10 {
+    float: right;
+    padding-right: 0px !important;
+}
+.panel-default>.panel-heading {
+    background-color: #54a0a5 !important;
+    color: #fff !important;
+    border-bottom: 8px solid #87d3d8;
+}
+.category-menu-custom {
+    background-color: #fff;
+}
+.category-menu-custom a {
+    border-right: none !important;
+    background-color: #fff !important;
+}
+.category-menu-custom  a:hover {
+    border-right: none !important;
+    background-color: #fff !important;
+    text-decoration: underline !important;
 }
